@@ -42,7 +42,7 @@ function scanProjects() {
              !dir.startsWith('.') &&
              dir !== 'node_modules' &&
              (dir.includes('2035-logica-programacion-2-Aula5') ||  // Solo la versión final
-              dir.includes('challenge') || 
+              dir.includes('challenge') ||
               dir.includes('js-curso') ||
               dir.includes('html-css'));
     });
