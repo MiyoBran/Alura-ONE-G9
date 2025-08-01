@@ -2,7 +2,12 @@
 
 ## 📖 Descripción
 
-Proyecto completo del curso **"Lógica de Programación"** que representa la evolución total desde los conceptos básicos hasta la implementación de un juego funcional de adivinanza de números. Este proyecto forma parte de la formación "Principiante en Programación" de **Alura ONE G9** y documenta el aprendizaje progresivo de JavaScript y pensamiento lógico.
+Proyecto integrador del **Paso 3: Aprender Lógica de Programación** de la formación Oracle Next Education (ONE) + Alura LATAM. Este proyecto consolida el aprendizaje de ambos cursos:
+
+- **"Lógica de programación: sumérgete en la programación con JavaScript"**
+- **"Lógica de programación: explorar funciones y listas"**
+
+Representa la evolución completa desde conceptos básicos hasta la implementación de un juego funcional de adivinanza de números, documentando el aprendizaje progresivo de JavaScript y pensamiento lógico computacional.
 
 ## ⚡ Funcionalidades
 

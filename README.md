@@ -12,9 +12,21 @@
 <img src="https://img.shields.io/badge/Responsive-Design-purple">
 </p>
 
+<p align="center">
+<a href="https://miyobran.github.io/Alura-ONE-G9/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Ver_Portfolio_en_Vivo-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Ver Portfolio">
+</a>
+</p>
+
 ## 📖 Descripción
 
 Esta es la **página principal** del portafolio que centraliza todos los proyectos desarrollados durante mi formación en la ruta **"Principiante en Programación"** del programa **Oracle Next Education (ONE)** en colaboración con **Alura LATAM**.
+
+## 🌐 **Ver Portfolio en Vivo**
+
+🔗 **[https://miyobran.github.io/Alura-ONE-G9/](https://miyobran.github.io/Alura-ONE-G9/)**
+
+> 👆 Haz clic para ver el portfolio interactivo completo con todos los proyectos en funcionamiento
 
 ### 🎯 **Sobre la Formación**
 
@@ -30,12 +42,14 @@ La página funciona como un **blog/índice interactivo** que permite acceder fá
 ## ✨ Características
 
 ### 🎨 **Diseño Moderno**
+
 - **Diseño responsive** que se adapta a cualquier dispositivo
 - **Tema dark mode** con gradientes atractivos
 - **Animaciones suaves** y efectos visuales
 - **Typography moderna** con Google Fonts (Inter + Merriweather)
 
 ### 🚀 **Funcionalidades Interactivas**
+
 - **Navegación suave** entre secciones
 - **Menú hamburguesa** para dispositivos móviles
 - **Efectos de hover** en tarjetas de proyectos
@@ -45,6 +59,7 @@ La página funciona como un **blog/índice interactivo** que permite acceder fá
 - **Cursor personalizado** con blend mode
 
 ### 📱 **Completamente Responsive**
+
 - **Mobile First** approach
 - **Breakpoints optimizados** para tablet y desktop
 - **Navegación adaptable** en todos los dispositivos
@@ -61,25 +76,39 @@ La página funciona como un **blog/índice interactivo** que permite acceder fá
 └── [carpetas-proyectos] # Enlaces a todos los proyectos
 ```
 
-## 📋 Proyectos Incluidos
+## � Trayecto Formativo ONE
 
-La página incluye enlaces directos a todos los proyectos desarrollados durante la formación **"Principiante en Programación"**:
+Este portafolio documenta mi progreso en la formación **"Principiante en Programación"** siguiendo el plan de estudios oficial de Oracle Next Education (ONE) + Alura LATAM:
 
-### 🏆 **Challenges**
-1. **Amigo Secreto** - Aplicación de sorteo con validaciones
+### � **Paso 3: Aprender Lógica de Programación**
 
-### 📚 **Cursos de Lógica de Programación**
-La base fundamental de cualquier carrera en tecnología:
+La lógica es la base de la programación y está presente en nuestra vida diaria. En programación, consiste en una secuencia de pasos para resolver problemas.
 
-2. **Lógica Programación 1** - Proyecto inicial y fundamentos
-3. **Lógica Programación 2 - Aula 1** - Conceptos básicos y estructuras
-4. **Lógica Programación 2 - Aula 2** - Funciones avanzadas y algoritmos
-5. **Lógica Programación 2 - Aula 3** - Resolución de problemas computacionales
-6. **Lógica Programación 2 - Aula 4** - Optimización y mejores prácticas
-7. **Lógica Programación 2 - Aula 5** - Proyecto final integrador
+✅ **Proyecto Desarrollado:**
 
-### 🎯 **Desafíos**
-8. **JavaScript Curso 2 - Desafío** - Desafío final de la formación
+- **Lógica de Programación - Curso Completo** - Proyecto integrador que abarca ambos cursos:
+  - "Lógica de programación: sumérgete en la programación con JavaScript"
+  - "Lógica de programación: explorar funciones y listas"
+
+### 🏆 **Paso 5: Challenge de Principiante en Programación**
+
+Metodología basada en Challenge-Based Learning para consolidar conocimientos a través de la práctica.
+
+✅ **Challenge Completado:**
+
+- **Amigo Secreto** - Aplicación de sorteo con validaciones avanzadas
+
+### 🌐 **Paso 7: Crea tus primeras páginas web**
+
+HTML y CSS son indispensables para cualquier profesional de tecnología, permitiendo comprender estructura y diseño web.
+
+🔄 **En Progreso (66% completado):**
+
+- **HTML y CSS - Desarrollo y Estructura** - Ambientes de desarrollo, estructura de archivos y tags
+
+### 🎯 **Desafíos Adicionales**
+
+- **JavaScript Curso 2 - Desafío** - Desafío final de la formación
 
 > 💡 **Nota**: Estos proyectos representan mi evolución desde no conocer absolutamente nada sobre programación hasta desarrollar aplicaciones funcionales con JavaScript, HTML y CSS.
 
@@ -102,12 +131,15 @@ La base fundamental de cualquier carrera en tecnología:
 ## 🚀 Cómo usar
 
 ### 📥 **Instalación**
+
 1. Clona el repositorio:
+
 ```bash
 git clone https://github.com/MiyoBran/Alura-ONE-G9.git
 ```
 
 2. Navega al directorio:
+
 ```bash
 cd Alura-ONE-G9
 ```
@@ -115,19 +147,23 @@ cd Alura-ONE-G9
 3. Abre `index.html` en tu navegador favorito
 
 ### 🌐 **Navegación**
+
 - **Inicio**: Presenta el portafolio y objetivos
 - **Proyectos**: Grid con todos los proyectos desarrollados
 - **Sobre mí**: Información sobre la formación y habilidades
 - **Contacto**: Enlaces a redes sociales y contacto
 
 ### 🔗 **Enlaces Directos**
+
 Cada tarjeta de proyecto incluye:
+
 - **Ver Demo**: Abre la aplicación funcionando
 - **Ver Código**: Accede a la carpeta del proyecto
 
 ## 📱 Responsive Design
 
 La página está optimizada para:
+
 - **📱 Mobile**: 320px - 768px
 - **📺 Tablet**: 768px - 1024px  
 - **🖥️ Desktop**: 1024px+
@@ -149,6 +185,7 @@ La página está optimizada para:
 ## ⚡ Performance
 
 ### 🚀 **Optimizaciones implementadas**
+
 - **CSS optimizado** con variables reutilizables
 - **JavaScript eficiente** con event delegation
 - **Imágenes optimizadas** y carga lazy
@@ -156,6 +193,7 @@ La página está optimizada para:
 - **Código minificado** para producción
 
 ### 📊 **Métricas**
+
 - **Tiempo de carga**: < 2 segundos
 - **Mobile friendly**: 100% responsive
 - **Accesibilidad**: Focus states y ARIA labels
@@ -176,6 +214,7 @@ Este proyecto fue creado con fines **educativos** como parte de la formación **
 ### 🤝 **Sobre el Programa ONE**
 
 El **Programa ONE** es una alianza estratégica entre **Alura LATAM** y **Oracle** diseñada para:
+
 - Formar nuevos talentos en tecnología
 - Satisfacer la creciente demanda global de programadores
 - Proporcionar formación de calidad y accesible
@@ -186,15 +225,17 @@ El **Programa ONE** es una alianza estratégica entre **Alura LATAM** y **Oracle
 ## 👨‍💻 Autor
 
 **MiyoBran**
+
 - GitHub: [@MiyoBran](https://github.com/MiyoBran)
 - Formación: **Principiante en Programación**
 - Programa: Oracle Next Education (ONE) G9
 - Institución: Alura LATAM
 
 ### 🎓 **Mi Trayectoria**
+
 - ✅ **Inicio**: Sin conocimientos previos en programación
 - ✅ **Progreso**: Dominio de lógica de programación y JavaScript
-- ✅ **Resultado**: 8 proyectos funcionales desarrollados
+- ✅ **Resultado**: 4 proyectos funcionales desarrollados
 - 🎯 **Objetivo**: Continuar creciendo en el área de desarrollo tecnológico
 
 ---
