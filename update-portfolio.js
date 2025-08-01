@@ -41,13 +41,14 @@ function scanProjects() {
       return fs.statSync(fullPath).isDirectory() &&
              !dir.startsWith('.') &&
              dir !== 'node_modules' &&
-             dir.includes('logica-programacion') || dir.includes('challenge') || dir.includes('js-curso');
+             (dir.includes('2035-logica-programacion-2-Aula5') ||  // Solo la versión final
+              dir.includes('challenge') || 
+              dir.includes('js-curso') ||
+              dir.includes('html-css'));
     });
 
   return projectDirs.map(dir => getProjectInfo(path.join(__dirname, dir)));
-}
-
-// Función para actualizar estadísticas en index.html
+}// Función para actualizar estadísticas en index.html
 function updatePortfolioStats() {
   const indexPath = path.join(__dirname, 'index.html');
 
