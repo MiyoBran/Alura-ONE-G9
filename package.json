@@ -1,0 +1,32 @@
+{
+  "name": "alura-one-g9-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio de MiyoBran para la formación Principiante en Programación - Alura ONE G9",
+  "main": "app.js",
+  "scripts": {
+    "start": "node -e \"console.log('🚀 Abriendo portfolio...'); require('child_process').exec('xdg-open index.html')\"",
+    "update-portfolio": "node update-portfolio.js",
+    "serve": "python3 -m http.server 8000",
+    "dev": "npm run serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MiyoBran/Alura-ONE-G9.git"
+  },
+  "keywords": [
+    "alura",
+    "oracle",
+    "one",
+    "portfolio",
+    "javascript",
+    "html",
+    "css",
+    "programming",
+    "learning"
+  ],
+  "author": "MiyoBran",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

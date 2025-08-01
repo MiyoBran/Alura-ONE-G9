@@ -12,17 +12,25 @@ Alura-ONE-G9/
 ├── style.css                                     # Estilos principales
 ├── app.js                                        # JavaScript interactivo
 ├── README.md                                     # Documentación principal
+├── package.json                                  # Configuración Node.js y scripts
+├── update-portfolio.js                          # Script automatización portfolio
 ├── .gitignore                                    # Exclusiones de Git
+├── .gitattributes                               # Control line endings Git
+├── .editorconfig                                # Estándares código editores
 ├── .github/
-│   └── copilot-instructions.md                  # Este archivo
-├── 2035-logica-programacion-1-ProyectoInicial/  # Curso inicial
-├── 2035-logica-programacion-2-Aula1/            # Conceptos básicos
-├── 2035-logica-programacion-2-Aula2/            # Funciones avanzadas
-├── 2035-logica-programacion-2-Aula3/            # Algoritmos
-├── 2035-logica-programacion-2-Aula4/            # Optimización
-├── 2035-logica-programacion-2-Aula5/            # Proyecto final
-├── js-curso-2-Desafio/                          # Desafío final
-└── challenge-amigo-secreto_esp-main/            # Challenge principal
+│   ├── copilot-instructions.md                  # Este archivo
+│   └── .instructions.md                         # Instrucciones cortas Copilot
+├── .vscode/
+│   ├── settings.json                            # Configuración VS Code workspace
+│   └── tasks.json                               # Tareas automatizadas VS Code
+├── 2035-logica-programacion-1-ProyectoInicial/ # Curso inicial
+├── 2035-logica-programacion-2-Aula1/           # Conceptos básicos
+├── 2035-logica-programacion-2-Aula2/           # Funciones avanzadas
+├── 2035-logica-programacion-2-Aula3/           # Algoritmos
+├── 2035-logica-programacion-2-Aula4/           # Optimización
+├── 2035-logica-programacion-2-Aula5/           # Proyecto final
+├── js-curso-2-Desafio/                         # Desafío final
+└── challenge-amigo-secreto_esp-main/           # Challenge principal
 ```
 
 ## 🎨 Identidad Visual y Estilo
@@ -56,7 +64,15 @@ Alura-ONE-G9/
 - **Git** para control de versiones
 - **GitHub** para hosting y colaboración
 - **VS Code** como editor principal
+- **Node.js v18.19.1** para automatización
+- **npm** para gestión dependencias y scripts
 - **Live Server** para desarrollo local
+
+### Automatización y Scripts
+- **update-portfolio.js** - Script Node.js para actualizar estadísticas del portfolio automáticamente
+- **package.json** - Configuración de dependencias y scripts npm
+- **VS Code Tasks** - Tareas automatizadas para desarrollo y deployment
+- **npm scripts** - Comandos rápidos: `npm run update-portfolio`, `npm start`, `npm run serve`
 
 ## 📝 Guías de Actualización
 
@@ -221,15 +237,31 @@ En la sección "about", actualizar los contadores:
 3. **Desarrollar funcionalidad** según requisitos
 4. **Crear README.md** del proyecto
 5. **Actualizar index.html** principal
-6. **Actualizar README.md** principal
-7. **Commit y push** con mensaje descriptivo
+6. **Ejecutar automatización**: `npm run update-portfolio`
+7. **Actualizar README.md** principal
+8. **Commit y push** con mensaje descriptivo
 
 ### Para Actualizaciones
 1. **Identificar sección** a actualizar
 2. **Mantener consistencia** de estilo
 3. **Probar funcionalidad** en diferentes dispositivos
 4. **Validar enlaces** y navegación
-5. **Actualizar documentación** correspondiente
+5. **Ejecutar script de actualización**: `npm run update-portfolio`
+6. **Actualizar documentación** correspondiente
+
+### Comandos de Automatización
+- `npm run update-portfolio` - Actualiza estadísticas del portfolio
+- `npm start` - Abre el portfolio en el navegador
+- `npm run serve` - Inicia servidor de desarrollo local
+- `npm run dev` - Alias para servidor de desarrollo
+
+### Tareas de VS Code
+Usar `Ctrl+Shift+P` → "Tasks: Run Task" para ejecutar:
+- `open-portfolio` - Abre la página principal del portfolio
+- `open-amigo-secreto` - Abre el challenge Amigo Secreto
+- `serve-portfolio` - Inicia servidor HTTP para desarrollo
+- `update-portfolio` - Ejecuta el script de actualización
+- `validate-html` - Validación HTML (requiere extensiones)
 
 ## 📞 Contacto y Soporte
 
