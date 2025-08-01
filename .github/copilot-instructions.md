@@ -16,19 +16,15 @@ Alura-ONE-G9/
 ├── update-portfolio.js                          # Script automatización portfolio
 ├── .gitignore                                    # Exclusiones de Git
 ├── .gitattributes                               # Control line endings Git
-├── .editorconfig                                # Estándares código editores
+├── .editorconfig                                 # Estándares código editores
 ├── .github/
 │   ├── copilot-instructions.md                  # Este archivo
 │   └── .instructions.md                         # Instrucciones cortas Copilot
 ├── .vscode/
 │   ├── settings.json                            # Configuración VS Code workspace
 │   └── tasks.json                               # Tareas automatizadas VS Code
-├── 2035-logica-programacion-1-ProyectoInicial/ # Curso inicial
-├── 2035-logica-programacion-2-Aula1/           # Conceptos básicos
-├── 2035-logica-programacion-2-Aula2/           # Funciones avanzadas
-├── 2035-logica-programacion-2-Aula3/           # Algoritmos
-├── 2035-logica-programacion-2-Aula4/           # Optimización
-├── 2035-logica-programacion-2-Aula5/           # Proyecto final
+├── 2035-logica-programacion-2-Aula5/           # Proyecto final completo
+├── 2067-html-css-desarrollo-estructura-archivos-aula3/ # Curso HTML/CSS
 ├── js-curso-2-Desafio/                         # Desafío final
 └── challenge-amigo-secreto_esp-main/           # Challenge principal
 ```
