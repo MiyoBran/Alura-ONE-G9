@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    .cuadrado {
+      width: 100px;    /* ancho de cada cuadrado */
+      height: 100px;    /* alto de cada cuadrado */
+      background-color: #4CAF50;    /* color de fondo del cuadrado */
+      border-radius: 10px;    /* esquinas redondeadas */
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);    /* sombra para dar profundidad */
+    }
+    .container {
+      margin: 20%;    /* agrega un margen para centrar los cuadrados en la pantalla */
+      display: flex;    /* coloca los cuadrados uno al lado del otro */
+      gap: 10px;    /* agrega espacios iguales entre cada cuadrado */
+
+      /* flex-direction: column; */    /* coloca los cuadrados en una sola columna */
+    }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="cuadrado"></div>
+        <div class="cuadrado"></div>
+        <div class="cuadrado"></div>
+        <div class="cuadrado"></div>
+    </div>
+</body>
+</html>
