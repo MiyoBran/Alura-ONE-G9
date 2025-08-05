@@ -102,9 +102,10 @@ Metodología basada en Challenge-Based Learning para consolidar conocimientos a 
 
 HTML y CSS son indispensables para cualquier profesional de tecnología, permitiendo comprender estructura y diseño web.
 
-🔄 **En Progreso (66% completado):**
+✅ **Proyectos Completados:**
 
 - **HTML y CSS - Desarrollo y Estructura** - Ambientes de desarrollo, estructura de archivos y tags
+- **HTML y CSS: Posicionamiento y Flexbox** - Portafolio avanzado multipágina con navegación, footer y Flexbox
 
 ### 🎯 **Desafíos Adicionales**
 
@@ -235,7 +236,7 @@ El **Programa ONE** es una alianza estratégica entre **Alura LATAM** y **Oracle
 
 - ✅ **Inicio**: Sin conocimientos previos en programación
 - ✅ **Progreso**: Dominio de lógica de programación y JavaScript
-- ✅ **Resultado**: 4 proyectos funcionales desarrollados
+- ✅ **Resultado**: 5 proyectos funcionales desarrollados
 - 🎯 **Objetivo**: Continuar creciendo en el área de desarrollo tecnológico
 
 ---
