@@ -25,6 +25,8 @@ Alura-ONE-G9/
 │   └── tasks.json                               # Tareas automatizadas VS Code
 ├── 2035-logica-programacion-2-Aula5/           # Proyecto final completo
 ├── 2067-html-css-desarrollo-estructura-archivos-aula3/ # Curso HTML/CSS
+├── 2074-html-css-posicionamiento-flexbox-aula5/ # Curso HTML/CSS (Flexbox)
+├── 2080-html-css-header-footer-variables-aula5/ # Curso HTML/CSS (responsividad)
 ├── js-curso-2-Desafio/                         # Desafío final
 └── challenge-amigo-secreto_esp-main/           # Challenge principal
 ```
@@ -55,6 +57,8 @@ Alura-ONE-G9/
 - **JavaScript ES6+** vanilla (sin frameworks)
 - **Font Awesome** para iconografía
 - **Google Fonts** para tipografía
+ - Mejoras de accesibilidad (skip-link, aria-current, focus-visible)
+ - Respeto a prefers-reduced-motion para usuarios sensibles al movimiento
 
 ### Herramientas de Desarrollo
 - **Git** para control de versiones
@@ -122,6 +126,8 @@ Alura-ONE-G9/
 - `fas fa-rocket` - Optimización
 - `fas fa-trophy` - Proyectos finales
 - `fas fa-star` - Desafíos especiales
+ - `fas fa-layer-group` - Flexbox/Layouts
+ - `fas fa-mobile-alt` - Responsividad/Publicación
 
 #### Actualizar Estadísticas
 En la sección "about", actualizar los contadores:
@@ -138,8 +144,8 @@ En la sección "about", actualizar los contadores:
 1. **Ubicación**: Buscar `## 📋 Proyectos Incluidos`
 2. **Agregar nuevo proyecto**:
 ```markdown
-### 🏆 **Challenges** / 📚 **Cursos** / 🎯 **Desafíos**
-[NÚMERO]. **[NOMBRE-PROYECTO]** - [DESCRIPCIÓN-BREVE]
+### 🏆 Challenges / 📚 Cursos / 🎯 Desafíos
+1. [NOMBRE-PROYECTO] — [DESCRIPCIÓN BREVE]
 ```
 
 #### Actualizar Estadísticas del Autor
@@ -191,6 +197,8 @@ En la sección "about", actualizar los contadores:
 - **Comentarios explicativos** en español
 - **Validaciones** siempre presentes
 - **Funciones modulares** y reutilizables
+ - **Accesibilidad**: focus-visible, ARIA, skip-links
+ - **Motion**: respeta prefers-reduced-motion
 
 ### Estructura de Archivos
 - `index.html` - Página principal
@@ -210,6 +218,7 @@ En la sección "about", actualizar los contadores:
 - **Comentarios** en código JavaScript
 - **Descripciones claras** de funcionalidades
 - **Instrucciones de uso** paso a paso
+ - **Evitar URLs sueltas** (usar formato [texto](url))
 
 ## 🎓 Contexto Educativo
 

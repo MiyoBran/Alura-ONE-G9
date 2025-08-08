@@ -11,15 +11,16 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
+    <a class="skip-link" href="#main-content">Saltar al contenido principal</a>
     <!-- Header -->
-    <header class="header">
-        <nav class="navbar">
+    <header class="header" role="banner">
+        <nav class="navbar" aria-label="Navegación principal">
             <div class="nav-container">
                 <div class="nav-logo">
                     <h2>MiyoBran</h2>
                     <span class="logo-accent">Alura ONE G9</span>
                 </div>
-                <ul class="nav-menu">
+                <ul class="nav-menu" id="primary-navigation">
                     <li class="nav-item">
                         <a href="#home" class="nav-link">Inicio</a>
                     </li>
@@ -33,14 +34,15 @@
                         <a href="#contact" class="nav-link">Contacto</a>
                     </li>
                 </ul>
-                <div class="hamburger">
-                    <span class="bar"></span>
-                    <span class="bar"></span>
-                    <span class="bar"></span>
-                </div>
+                <button class="hamburger" aria-label="Abrir menú" aria-controls="primary-navigation" aria-expanded="false">
+                    <span class="bar" aria-hidden="true"></span>
+                    <span class="bar" aria-hidden="true"></span>
+                    <span class="bar" aria-hidden="true"></span>
+                </button>
             </div>
         </nav>
     </header>
+    <main id="main-content" role="main">
 
     <!-- Hero Section -->
     <section id="home" class="hero">
@@ -58,10 +60,10 @@
                 </p>
                 <div class="hero-buttons">
                     <a href="#projects" class="btn btn-primary">
-                        <i class="fas fa-code"></i>
+                        <i class="fas fa-code" aria-hidden="true"></i>
                         Ver Proyectos
                     </a>
-                    <a href="https://github.com/MiyoBran" target="_blank" class="btn btn-secondary">
+                    <a href="https://github.com/MiyoBran" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">
                         <i class="fab fa-github"></i>
                         GitHub
                     </a>
@@ -69,7 +71,7 @@
             </div>
             <div class="hero-image">
                 <div class="hero-card">
-                    <i class="fas fa-laptop-code"></i>
+                    <i class="fas fa-laptop-code" aria-hidden="true"></i>
                     <h3>Desarrollo Frontend</h3>
                     <p>HTML, CSS, JavaScript</p>
                 </div>
@@ -91,7 +93,7 @@
                 <!-- Challenge Amigo Secreto -->
                 <div class="project-card featured">
                     <div class="project-image">
-                        <i class="fas fa-gift"></i>
+                        <i class="fas fa-gift" aria-hidden="true"></i>
                     </div>
                     <div class="project-content">
                         <div class="project-header">
@@ -109,11 +111,11 @@
                         </div>
                         <div class="project-links">
                             <a href="challenge-amigo-secreto_esp-main/index.html" class="btn btn-sm btn-primary">
-                                <i class="fas fa-external-link-alt"></i>
+                                <i class="fas fa-external-link-alt" aria-hidden="true"></i>
                                 Ver Demo
                             </a>
                             <a href="challenge-amigo-secreto_esp-main/" class="btn btn-sm btn-outline">
-                                <i class="fas fa-code"></i>
+                                <i class="fas fa-code" aria-hidden="true"></i>
                                 Ver Código
                             </a>
                         </div>
@@ -123,7 +125,7 @@
                 <!-- Lógica de Programación - Curso Completo -->
                 <div class="project-card featured">
                     <div class="project-image">
-                        <i class="fas fa-brain"></i>
+                        <i class="fas fa-brain" aria-hidden="true"></i>
                     </div>
                     <div class="project-content">
                         <div class="project-header">
@@ -142,11 +144,11 @@
                         </div>
                         <div class="project-links">
                             <a href="2035-logica-programacion-2-Aula5/index.html" class="btn btn-sm btn-primary">
-                                <i class="fas fa-external-link-alt"></i>
+                                <i class="fas fa-external-link-alt" aria-hidden="true"></i>
                                 Ver Demo
                             </a>
                             <a href="2035-logica-programacion-2-Aula5/" class="btn btn-sm btn-outline">
-                                <i class="fas fa-code"></i>
+                                <i class="fas fa-code" aria-hidden="true"></i>
                                 Ver Código
                             </a>
                         </div>
@@ -156,7 +158,7 @@
                 <!-- JS Curso 2 Desafío -->
                 <div class="project-card">
                     <div class="project-image">
-                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star" aria-hidden="true"></i>
                     </div>
                     <div class="project-content">
                         <div class="project-header">
@@ -164,8 +166,7 @@
                             <span class="project-badge challenge">Desafío</span>
                         </div>
                         <p class="project-description">
-                            Desafío final que pone a prueba todos los conocimientos adquiridos
-                            en JavaScript y lógica de programación.
+                            Desafío final que pone a prueba todos los conocimientos adquiridos en JavaScript y lógica de programación.
                         </p>
                         <div class="project-tech">
                             <span class="tech-tag">JavaScript</span>
@@ -174,21 +175,51 @@
                         </div>
                         <div class="project-links">
                             <a href="js-curso-2-Desafio/index.html" class="btn btn-sm btn-primary">
-                                <i class="fas fa-external-link-alt"></i>
+                                <i class="fas fa-external-link-alt" aria-hidden="true"></i>
                                 Ver Demo
                             </a>
                             <a href="js-curso-2-Desafio/" class="btn btn-sm btn-outline">
-                                <i class="fas fa-code"></i>
+                                <i class="fas fa-code" aria-hidden="true"></i>
+                                Ver Código
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- HTML y CSS: Header, Footer y Variables -->
+                <div class="project-card">
+                    <div class="project-image">
+                        <i class="fas fa-puzzle-piece" aria-hidden="true"></i>
+                    </div>
+                    <div class="project-content">
+                        <div class="project-header">
+                            <h3 class="project-title">HTML y CSS: Header, Footer y Variables</h3>
+                            <span class="project-badge course">Curso</span>
+                        </div>
+                        <p class="project-description">
+                            Proyecto final del curso sobre estructura básica, responsividad y variables CSS. Incluye técnicas modernas de diseño responsive y publicación web.
+                        </p>
+                        <div class="project-tech">
+                            <span class="tech-tag">HTML5</span>
+                            <span class="tech-tag">CSS3</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="2080-html-css-header-footer-variables-aula5/index.html" class="btn btn-sm btn-primary">
+                                <i class="fas fa-external-link-alt" aria-hidden="true"></i>
+                                Ver Demo
+                            </a>
+                            <a href="2080-html-css-header-footer-variables-aula5/" class="btn btn-sm btn-outline">
+                                <i class="fas fa-code" aria-hidden="true"></i>
                                 Ver Código
                             </a>
                         </div>
                     </div>
                 </div>
 
+
                 <!-- HTML CSS Project -->
                 <div class="project-card">
                     <div class="project-image">
-                        <i class="fas fa-code"></i>
+                        <i class="fas fa-code" aria-hidden="true"></i>
                     </div>
                     <div class="project-content">
                         <div class="project-header">
@@ -206,11 +237,11 @@
                         </div>
                         <div class="project-links">
                             <a href="2067-html-css-desarrollo-estructura-archivos-aula3/index.html" class="btn btn-sm btn-primary">
-                                <i class="fas fa-external-link-alt"></i>
+                                <i class="fas fa-external-link-alt" aria-hidden="true"></i>
                                 Ver Demo
                             </a>
                             <a href="2067-html-css-desarrollo-estructura-archivos-aula3/" class="btn btn-sm btn-outline">
-                                <i class="fas fa-code"></i>
+                                <i class="fas fa-code" aria-hidden="true"></i>
                                 Ver Código
                             </a>
                         </div>
@@ -220,7 +251,7 @@
                 <!-- HTML y CSS: Posicionamiento y Flexbox -->
                 <div class="project-card">
                     <div class="project-image">
-                        <i class="fas fa-layer-group"></i>
+                        <i class="fas fa-layer-group" aria-hidden="true"></i>
                     </div>
                     <div class="project-content">
                         <div class="project-header">
@@ -237,7 +268,7 @@
                         </div>
                         <div class="project-links">
                             <a href="2074-html-css-posicionamiento-flexbox-aula5/index.html" class="btn btn-sm btn-primary">
-                                <i class="fas fa-external-link-alt"></i>
+                                <i class="fas fa-external-link-alt" aria-hidden="true"></i>
                                 Ver Demo
                             </a>
                             <a href="2074-html-css-posicionamiento-flexbox-aula5/" class="btn btn-sm btn-outline">
@@ -335,11 +366,11 @@
                 </p>
             </div>
             <div class="contact-links">
-                <a href="https://github.com/MiyoBran" target="_blank" class="contact-link">
+                <a href="https://github.com/MiyoBran" target="_blank" rel="noopener noreferrer" class="contact-link">
                     <i class="fab fa-github"></i>
                     <span>GitHub</span>
                 </a>
-                <a href="https://linkedin.com/in/miyobran" target="_blank" class="contact-link">
+                <a href="https://linkedin.com/in/miyobran" target="_blank" rel="noopener noreferrer" class="contact-link">
                     <i class="fab fa-linkedin"></i>
                     <span>LinkedIn</span>
                 </a>
@@ -352,6 +383,7 @@
     </section>
 
     <!-- Footer -->
+    </main>
     <footer class="footer">
         <div class="container">
             <div class="footer-content">
@@ -359,7 +391,7 @@
                     <p>&copy; 2025 MiyoBran. Desarrollado como parte del programa Oracle Next Education (ONE) + Alura LATAM</p>
                 </div>
                 <div class="footer-links">
-                    <a href="https://github.com/MiyoBran/Alura-ONE-G9" target="_blank">
+                    <a href="https://github.com/MiyoBran/Alura-ONE-G9" target="_blank" rel="noopener noreferrer">
                         <i class="fab fa-github"></i>
                         Ver Repositorio
                     </a>
@@ -368,6 +400,6 @@
         </div>
     </footer>
 
-    <script src="app.js"></script>
+    <script src="app.js" defer></script>
 </body>
 </html>
