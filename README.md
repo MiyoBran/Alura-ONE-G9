@@ -106,6 +106,7 @@ HTML y CSS son indispensables para cualquier profesional de tecnología, permiti
 
 - **HTML y CSS - Desarrollo y Estructura** - Ambientes de desarrollo, estructura de archivos y tags
 - **HTML y CSS: Posicionamiento y Flexbox** - Portafolio avanzado multipágina con navegación, footer y Flexbox
+- **HTML y CSS: Responsividad y Publicación** - Diseño responsive, variables CSS y publicación web
 
 ### 🎯 **Desafíos Adicionales**
 
@@ -236,7 +237,7 @@ El **Programa ONE** es una alianza estratégica entre **Alura LATAM** y **Oracle
 
 - ✅ **Inicio**: Sin conocimientos previos en programación
 - ✅ **Progreso**: Dominio de lógica de programación y JavaScript
-- ✅ **Resultado**: 5 proyectos funcionales desarrollados
+- ✅ **Resultado**: 6 proyectos funcionales desarrollados
 - 🎯 **Objetivo**: Continuar creciendo en el área de desarrollo tecnológico
 
 ---

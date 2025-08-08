@@ -1,49 +1,81 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
   <style>
-    body{
-    background-color: white;
-    /* Esto es un comentario en CSS */
-    /*
+    body {
+      background-color: white;
+      /* Esto es un comentario en CSS */
+      /*
         Esto es un comentario en CSS con
         salto de línea
     */
-}
+    }
+
     .cuadrado {
-      width: 100px;    /* ancho de cada cuadrado */
-      height: 100px;    /* alto de cada cuadrado */
-      background-color: #4CAF50;    /* color de fondo del cuadrado */
-      border-radius: 10px;    /* esquinas redondeadas */
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);    /* sombra para dar profundidad */
+      width: 100px;
+      /* ancho de cada cuadrado */
+      height: 100px;
+      /* alto de cada cuadrado */
+      background-color: #4CAF50;
+      /* color de fondo del cuadrado */
+      border-radius: 10px;
+      /* esquinas redondeadas */
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      /* sombra para dar profundidad */
     }
+
     .container {
-      margin: 20%;    /* agrega un margen para centrar los cuadrados en la pantalla */
-      display: flex;    /* coloca los cuadrados uno al lado del otro */
-      gap: 10px;    /* agrega espacios iguales entre cada cuadrado */
+      margin: 20%;
+      /* agrega un margen para centrar los cuadrados en la pantalla */
+      display: flex;
+      /* coloca los cuadrados uno al lado del otro */
+      gap: 10px;
+      /* agrega espacios iguales entre cada cuadrado */
 
-      /* flex-direction: column; */    /* coloca los cuadrados en una sola columna */
+      /* flex-direction: column; */
+      /* coloca los cuadrados en una sola columna */
     }
-    </style>
+
+    section {
+      border-style: solid;
+      /* Crea un borde sólido */
+      border-color: red;
+      /* Colorea el borde con el color rojo*/
+      margin: 10%;
+      /* Agrega un margen alrededor de la section */
+      display: flex;
+      /* Agrega el display flex */
+      justify-content: space-evenly
+    }
+  </style>
 </head>
+
 <body>
-    <div class="container">
-        <div class="cuadrado"></div>
-        <div class="cuadrado"></div>
-        <div class="cuadrado"></div>
-        <div class="cuadrado"></div>
-        <p> Esto es un párrafo de texto y será mostrado por el navegador </p>
+  <div class="container">
+    <div class="cuadrado"></div>
+    <div class="cuadrado"></div>
+    <div class="cuadrado"></div>
+    <div class="cuadrado"></div>
+    <p> Esto es un párrafo de texto y será mostrado por el navegador </p>
 
-<!-- Esto es un comentario y será ignorado  -->
+    <!-- Esto es un comentario y será ignorado  -->
 
-<!-- Esto es un comentario con salto de línea
+    <!-- Esto es un comentario con salto de línea
 
 y también será ignorado  -->
 
-<p> Esto es un párrafo de texto y será mostrado por el navegador </p>
-    </div>
+    <p> Esto es un párrafo de texto y será mostrado por el navegador </p>
+  </div>
+
+  <section>
+    <img src="logo-alura-latam.png" alt="Logo da Alura Latam">
+    <p>Estoy estudiando HTML y CSS en Alura Latam!</p>
+  </section>
+
 </body>
+
 </html>
