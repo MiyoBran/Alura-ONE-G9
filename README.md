@@ -106,6 +106,20 @@ HTML y CSS son indispensables para cualquier profesional de tecnología, permiti
 
 - **HTML y CSS - Desarrollo y Estructura** - Ambientes de desarrollo, estructura de archivos y tags
 
+### 🐍 **Paso 8: Fundamentos de Python y Datos**
+
+Trayecto formativo finalizado con 49 horas de aprendizaje enfocado en ciencia de datos y bases de datos.
+
+✅ **Temas dominados:**
+
+- **Python para Data Science** - Estructuras, funciones y resolucion de problemas
+- **Biblioteca Pandas** - ETL, limpieza y analisis exploratorio (EDA)
+- **Modelado de Bases de Datos** - Diseño conceptual y reglas de negocio
+
+✅ **Desafio realizado:**
+
+- **Alura Store - Analisis de Datos** - Desafio aplicado con repositorio publico: https://github.com/MiyoBran/alura-store-desafio
+
 ### 🎯 **Desafíos Adicionales**
 
 - **JavaScript Curso 2 - Desafío** - Desafío final de la formación
@@ -235,7 +249,7 @@ El **Programa ONE** es una alianza estratégica entre **Alura LATAM** y **Oracle
 
 - ✅ **Inicio**: Sin conocimientos previos en programación
 - ✅ **Progreso**: Dominio de lógica de programación y JavaScript
-- ✅ **Resultado**: 4 proyectos funcionales desarrollados
+- ✅ **Resultado**: 5 proyectos funcionales desarrollados
 - 🎯 **Objetivo**: Continuar creciendo en el área de desarrollo tecnológico
 
 ---
