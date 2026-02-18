@@ -23,10 +23,11 @@ Alura-ONE-G9/
 ├── .vscode/
 │   ├── settings.json                            # Configuración VS Code workspace
 │   └── tasks.json                               # Tareas automatizadas VS Code
-├── 2035-logica-programacion-2-Aula5/           # Proyecto final completo
-├── 2067-html-css-desarrollo-estructura-archivos-aula3/ # Curso HTML/CSS
-├── js-curso-2-Desafio/                         # Desafío final
-└── challenge-amigo-secreto_esp-main/           # Challenge principal
+├── formacion-programacion-primeros-pasos-grupo9-one/ # Cursos principales
+│   ├── 2035-logica-programacion-2-Aula5/      # Proyecto final completo
+│   ├── 2067-html-css-desarrollo-...aula3/     # Curso HTML/CSS
+│   ├── js-curso-2-Desafio/                    # Desafío final
+│   └── challenge-amigo-secreto_esp-main/      # Challenge principal
 ```
 
 ## 🎨 Identidad Visual y Estilo

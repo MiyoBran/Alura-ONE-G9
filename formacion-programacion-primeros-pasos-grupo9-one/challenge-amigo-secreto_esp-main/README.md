@@ -76,7 +76,7 @@ git clone https://github.com/MiyoBran/Alura-ONE-G9.git
 2. Navega hasta la carpeta del proyecto:
 
 ```bash
-cd Alura-ONE-G9/challenge-amigo-secreto_esp-main
+cd Alura-ONE-G9/formacion-programacion-primeros-pasos-grupo9-one/challenge-amigo-secreto_esp-main
 ```
 
 ## 🛠️ Abrir y ejecutar el proyecto
