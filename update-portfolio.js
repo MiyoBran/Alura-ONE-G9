@@ -35,29 +35,40 @@ function getProjectInfo(projectPath) {
 
 // Función para escanear proyectos
 function scanProjects() {
-  const projectDirs = fs.readdirSync(__dirname)
-    .filter(dir => {
-      const fullPath = path.join(__dirname, dir);
-      let isDirectory = false;
+  const rootFormations = [
+    'formacion-programacion-primeros-pasos-grupo9-one',
+    'formacion-fundamentos-de-python-y-datos-grupo9-one',
+    'formacion-Aprendiendo-a-hacer-ETL-G9-ONE',
+    'formacion-estadisticas-y-machine-learning-grupo9-one'
+  ];
 
-      try {
-        isDirectory = fs.statSync(fullPath).isDirectory();
-      } catch (error) {
-        return false;
-      }
+  const projects = [];
 
-      return isDirectory &&
-        !dir.startsWith('.') &&
-        dir !== 'node_modules' &&
-        (dir === 'formacion-programacion-primeros-pasos-grupo9-one' ||
-          dir.includes('2035-logica-programacion-2-Aula5') ||
-          dir.includes('challenge') ||
-          dir.includes('js-curso') ||
-          dir.includes('html-css'));
+  rootFormations.forEach(rootDir => {
+    const rootPath = path.join(__dirname, rootDir);
+    if (!fs.existsSync(rootPath) || !fs.statSync(rootPath).isDirectory()) {
+      return;
+    }
+
+    const subDirs = fs.readdirSync(rootPath)
+      .filter(entry => {
+        if (entry.startsWith('.')) {
+          return false;
+        }
+
+        const entryPath = path.join(rootPath, entry);
+        return fs.statSync(entryPath).isDirectory();
+      });
+
+    subDirs.forEach(subDir => {
+      projects.push(getProjectInfo(path.join(rootPath, subDir)));
     });
+  });
 
-  return projectDirs.map(dir => getProjectInfo(path.join(__dirname, dir)));
-}// Función para actualizar estadísticas en index.html
+  return projects;
+}
+
+// Función para actualizar estadísticas en index.html
 function updatePortfolioStats() {
   const indexPath = path.join(__dirname, 'index.html');
 

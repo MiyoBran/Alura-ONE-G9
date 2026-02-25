@@ -2,7 +2,7 @@
 
 ## 🎯 Contexto General del Proyecto
 
-Este es el portafolio de **MiyoBran** para la formación **"Principiante en Programación"** del programa **Oracle Next Education (ONE)** en colaboración con **Alura LATAM**. El proyecto documenta la evolución completa desde no tener conocimientos previos en programación hasta desarrollar aplicaciones funcionales.
+Este es el portafolio de **MiyoBran** para la trayectoria completa de **Oracle Next Education (ONE)** en colaboración con **Alura LATAM**. El proyecto documenta la evolución desde fundamentos de programación hasta data science, ETL y machine learning.
 
 ### 📋 Estructura del Repositorio
 
@@ -28,17 +28,21 @@ Alura-ONE-G9/
 │   ├── 2067-html-css-desarrollo-...aula3/     # Curso HTML/CSS
 │   ├── js-curso-2-Desafio/                    # Desafío final
 │   └── challenge-amigo-secreto_esp-main/      # Challenge principal
+├── formacion-fundamentos-de-python-y-datos-grupo9-one/
+├── formacion-Aprendiendo-a-hacer-ETL-G9-ONE/
+├── formacion-estadisticas-y-machine-learning-grupo9-one/
+└── Assets-IA-Tools/
 ```
 
 ## 🎨 Identidad Visual y Estilo
 
 ### Paleta de Colores
 ```css
---primary-color: #667eea       /* Azul principal */
---secondary-color: #764ba2     /* Púrpura */
---accent-color: #f093fb        /* Rosa */
---bg-primary: #0f0f23          /* Fondo oscuro */
---text-primary: #ffffff        /* Texto principal */
+--primary-color: #14b8a6       /* Teal principal */
+--secondary-color: #0f766e     /* Teal oscuro */
+--accent-color: #a3e635        /* Lima */
+--bg-primary: #0b1220          /* Fondo oscuro */
+--text-primary: #e2e8f0        /* Texto principal */
 ```
 
 ### Principios de Diseño
@@ -46,7 +50,7 @@ Alura-ONE-G9/
 - **Responsive Design** mobile-first
 - **Gradientes** para elementos destacados
 - **Animaciones suaves** con CSS transforms
-- **Typography moderna** (Inter + Merriweather)
+- **Typography moderna** (Space Grotesk + Fraunces)
 
 ## 🚀 Tecnologías Utilizadas
 
@@ -113,6 +117,20 @@ Alura-ONE-G9/
 #### Tipos de Badges Disponibles
 - `project-badge course` - Para cursos (color amarillo)
 - `project-badge challenge` - Para challenges (color verde)
+
+#### Seccion Formaciones
+1. **Ubicacion**: Buscar la seccion `<section id="tracks">` en `index.html`
+2. **Estructura**:
+```html
+<div class="track-card">
+    <div class="track-header">
+        <h3 class="track-title">[NOMBRE-FORMACION]</h3>
+        <span class="track-status [completed|in-progress|not-started]">[X/Y]</span>
+    </div>
+    <p class="track-description">[DESCRIPCION]</p>
+    <a href="[RUTA-README]" class="track-link">Ver README</a>
+</div>
+```
 
 #### Iconos Recomendados (Font Awesome)
 - `fas fa-brain` - Lógica de programación
