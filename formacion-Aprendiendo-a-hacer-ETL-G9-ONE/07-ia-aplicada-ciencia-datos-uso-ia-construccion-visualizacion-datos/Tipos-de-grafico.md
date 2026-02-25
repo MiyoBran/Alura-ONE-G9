@@ -16,7 +16,7 @@ En esta guía revisaremos los principales tipos de gráficos, cuándo usarlos, s
 ### Gráfico de Columnas
 Un gráfico de columnas es ideal para representar valores numéricos de una o más categorías de datos, sean discretas o de intervalos definidos. Facilita una comparación rápida y directa entre diferentes categorías, siendo uno de los gráficos más utilizados en informes y presentaciones.
 
-![Gráfico de Columnas](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/01_columnas_metodos_pago.png)
+![Gráfico de Columnas](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/01_columnas_metodos_pago.webp)
 
 **Ventajas:**
 - Fácil de interpretar
@@ -30,7 +30,7 @@ Un gráfico de columnas es ideal para representar valores numéricos de una o m�
 ### Gráfico de Barras Horizontales
 El gráfico de barras horizontales es ideal cuando queremos presentar las categorías a la izquierda de forma horizontal, siendo la forma más fluida de leer textos que puedan ser extensos. El enfoque de este tipo de gráfico está primero en la categoría de los datos y, en segundo lugar, en los valores numéricos.
 
-![Gráfico de Barras Horizontales](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/02_barras_horizontales_facturacion_categoria.png)
+![Gráfico de Barras Horizontales](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/02_barras_horizontales_facturacion_categoria.webp)
 
 **Ventajas:**
 - Mejor legibilidad de etiquetas largas
@@ -47,7 +47,7 @@ El gráfico de barras horizontales es ideal cuando queremos presentar las catego
 ### Columnas Agrupadas
 Un gráfico de columnas agrupadas es ideal cuando queremos comparar diferentes categorías respecto a una variable, mostrando cómo los valores se comparan dentro de cada categoría (por ejemplo, trimestres) en columnas separadas (por ejemplo, productos A, B y C) y entre los diferentes grupos, facilitando la visualización de patrones y diferencias entre ellos.
 
-![Columnas Agrupadas](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/03_columnas_agrupadas_facturacion_region_sexo.png)
+![Columnas Agrupadas](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/03_columnas_agrupadas_facturacion_region_sexo.webp)
 
 **Ventajas:**
 - Permite comparar múltiples series fácilmente
@@ -61,7 +61,7 @@ Un gráfico de columnas agrupadas es ideal cuando queremos comparar diferentes c
 ### Columnas Apiladas
 Un gráfico de columnas apiladas es útil cuando queremos añadir a la comparación entre periodos o categorías, la comparación dentro de cada una. Este tipo de gráfico permite observar la composición de cada columna según la variable deseada (por ejemplo, las preferencias de consumo de café o té).
 
-![Columnas Apiladas](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/04_columnas_apiladas_facturacion_trimestre_metodo.png)
+![Columnas Apiladas](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/04_columnas_apiladas_facturacion_trimestre_metodo.webp)
 
 **Ventajas:**
 - Muestra composición dentro de cada categoría
@@ -77,7 +77,7 @@ Un gráfico de columnas apiladas es útil cuando queremos añadir a la comparaci
 
 Los gráficos de línea son ideales para representar tendencias a lo largo del tiempo o una secuencia ordenada. Cuando se tiene una gran cantidad de periodos, vale la pena usar gráficos de líneas para representar series temporales.
 
-![Gráfico de Línea](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/05_linea_ventas_mensuales.png)
+![Gráfico de Línea](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/05_linea_ventas_mensuales.webp)
 
 **Ventajas:**
 - Excelente para mostrar tendencias temporales
@@ -103,7 +103,7 @@ Los gráficos de líneas pueden añadir una variable categórica a los análisis
 ### Gráfico de Pastel (Pie Chart)
 El gráfico de pastel se usa para representar proporciones de diferentes categorías o partes de un todo. Es ideal para composiciones estáticas, ya sea por valores numéricos o porcentajes.
 
-![Gráfico de Pastel](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/06_pastel_proporcion_sexo.png)
+![Gráfico de Pastel](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/06_pastel_proporcion_sexo.webp)
 
 **Ventajas:**
 - Intuitivo para mostrar composición porcentual
@@ -123,7 +123,7 @@ El gráfico de pastel se usa para representar proporciones de diferentes categor
 ### Gráfico de Dona (Donut Chart)
 El gráfico de dona es una alternativa moderna al gráfico de pastel, adecuado cuando queremos reducir la superficie colorida, pasando a utilizar coronas circulares. Ambos gráficos son ideales para pocas categorías de datos.
 
-![Gráfico de Dona](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/07_dona_cashback.png)
+![Gráfico de Dona](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/07_dona_cashback.webp)
 
 **Ventajas:**
 - Menos abrumador visualmente que pastel
@@ -158,7 +158,7 @@ Los gráficos de cascada se usan para visualizar ajustes incrementales a un valo
 
 Los histogramas se utilizan para observar la distribución de los datos en un intervalo dado. Estos intervalos, llamados "bins", muestran cuántas observaciones caen dentro de esa franja.
 
-![Histograma](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/08_histograma_notas.png)
+![Histograma](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/08_histograma_notas.webp)
 
 **Ventajas:**
 - Muestra distribución de frecuencias claramente
@@ -185,7 +185,7 @@ Los histogramas se utilizan para observar la distribución de los datos en un in
 
 Los gráficos de dispersión se utilizan para representar la relación o distribución entre dos variables numéricas. Cada punto en el gráfico representa una combinación de coordenadas, facilitando la identificación de patrones, tendencias y correlaciones importantes para el aprendizaje automático y análisis exploratorio.
 
-![Scatter Plot](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/09_scatter_edad_nota.png)
+![Scatter Plot](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/09_scatter_edad_nota.webp)
 
 **Ventajas:**
 - Muestra correlaciones entre variables claramente
@@ -207,6 +207,111 @@ Los gráficos de dispersión se utilizan para representar la relación o distrib
 - Identificación de outliers
 - Exploración de relaciones no lineales
 - Validación de hipótesis de relación
+
+---
+
+# 🎨 Principios de Diseño Visual para Gráficos
+
+Más allá de elegir el tipo de gráfico correcto, la calidad visual es esencial para la comunicación efectiva. Existen tres pilares fundamentales del diseño visual que garantizan gráficos profesionales y legibles.
+
+## 1. Uso Correcto de Colores
+
+El color es uno de los elementos más poderosos en visualización de datos. Su uso correcto requiere dos parámetros clave:
+
+### Contraste
+El contraste es la diferencia entre colores en comparación. Contrastes fuertes = colores más diferenciados; contrastes débiles = colores muy similares.
+
+**Importancia:**
+- Colores similares dificultan la identificación de elementos en el gráfico
+- El contraste insuficiente reduce la legibilidad especialmente en gráficos de pastel o dona
+- Un buen contraste permite que cada elemento se destaque correctamente
+
+**Mejores prácticas:**
+- Evita usar colores muy similares en serie
+- Asegura que todos los colores tengan suficiente separación visual
+- Valida en escala de grises para verificar que se sigan distinguiendo los elementos
+
+### Consistencia
+En proyectos con múltiples gráficos, debe existir un patrón cromático consistente.
+
+**Importancia:**
+- Proporciona cohesión visual al conjunto de materiales
+- Transmite profesionalismo y atención al detalle
+- Facilita que el lector reconozca patrones entre gráficos
+
+**Mejores prácticas:**
+- Define una paleta de colores al inicio del proyecto
+- Usa los mismos colores para las mismas categorías en todos los gráficos
+- Mantén coherencia: si "Ventas" es azul en un gráfico, debe serlo en todos
+
+---
+
+## 2. Tipografía Legible
+
+El texto en los gráficos (títulos, etiquetas, leyendas) debe ser fácil de leer. Dos atributos son críticos:
+
+### Tamaño de Fuente
+
+| Contexto | Tamaño Mínimo |
+|----------|---------------|
+| Impreso (papel) | 10 pt |
+| Presentación digital | 20 pt |
+| Web/Pantalla | 14-16 pt |
+| Proyector | 32 pt o mayor |
+
+**Recomendación:** Cuando dudes, aumenta el tamaño. Es mejor que el texto sea demasiado grande a que sea ilegible.
+
+### Estilo de Fuente
+
+**Evitar:**
+- ❌ Tipografías muy ornamentadas
+- ❌ Cursivas en extensiones largas
+- ❌ Estilos con características excesivamente acentuadas
+- ❌ Múltiples familias tipográficas diferentes
+
+**Preferir:**
+- ✅ Familias tipográficas simples y limpias (Arial, Helvetica, Roboto, Open Sans)
+- ✅ Sans-serif para gráficos digitales
+- ✅ Consistencia de fuentes en todo el proyecto
+- ✅ Máximo dos familias tipográficas
+
+**Ejemplo:**
+- Bueno: "Ventas Q1" en Arial regular
+- Malo: "Ventas Q1" en script cursiva ornamentada
+
+---
+
+## 3. Jerarquía de la Información
+
+En comunicación visual, **no todo puede ser importante al mismo tiempo**. Si intentas destacar todo, terminas sin destacar nada.
+
+### Principio Clave
+Define **1 a 2 elementos como protagonistas** y permite que el resto juegue un papel de apoyo.
+
+### Implementación Práctica
+
+**Controla los Colores:**
+- ✅ Usa colores "fuertes" o llamativos SOLO para los elementos principales
+- ✅ Colores más neutrales o apagados para elementos secundarios
+- ❌ Evita usar múltiples colores saturados (rojo, turquesa, amarillo limón juntos)
+
+**Controla la Tipografía:**
+- ✅ **Título:** Grande, bold, contraste alto
+- ✅ **Datos principales:** Tamaño medio, legible
+- ✅ **Leyendas/Etiquetas:** Pequeño pero legible
+- ❌ No hagas todo igual de grande o del mismo peso visual
+
+**Ejemplo de Jerarquía:**
+```
+TÍTULO PRINCIPAL                    ← Más grande, más contraste
+Eje Y: "Ganancias ($)"             ← Tamaño normal
+[Datos visuales]
+Categoría A  Categoría B  Categoría C  ← Más pequeño
+```
+
+**Antes (Saturado) vs Después (Optimizado):**
+- Antes: Muchos colores fuertes, tipografía inconsistente, todo destaca
+- Después: Paleta limitada, tipografía ordenada, solo los datos protagonizan
 
 ---
 
