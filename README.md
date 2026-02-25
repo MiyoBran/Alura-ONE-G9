@@ -67,13 +67,12 @@ La página funciona como un **blog/índice interactivo** que permite acceder fá
 
 ## ✅ Estado de avance
 
-- **Desarrollo Personal G9 - ONE**: 10/10
-- **Principiante en Programación G9 - ONE**: 5/5
-- **Emprendimiento, Agilidad y Protagonismo Profesional G9 - ONE**: 7/7
-- **Fundamentos de Python y Datos G9 - ONE**: 7/8
-- **Aprendiendo a hacer ETL G9 - ONE**: 0/8
+- **Desarrollo Personal G9 - ONE**: 5/5
+- **Principiante en Programación G9 - ONE**: 10/10
+- **Emprendimiento, Agilidad y Protagonismo Profesional G9 - ONE**: 5/5
+- **Fundamentos de Python y Datos G9 - ONE**: 7/7
+- **Aprendiendo a hacer ETL G9 - ONE**: 7/8
 - **Estadísticas y Machine Learning G9 - ONE**: 0/8
-- **Próximos Pasos ONE Grupo 9 (G9) Tech Foundation - Etapa Especialización**: 5/5
 
 ## 🗂️ Estructura del Proyecto
 
@@ -100,6 +99,18 @@ Formación enfocada en lógica de programación, fundamentos de JavaScript y des
 - Challenges de práctica (Amigo Secreto, JS Curso 2)
 
 📄 **README de la formación**: [formacion-programacion-primeros-pasos-grupo9-one/README.md](formacion-programacion-primeros-pasos-grupo9-one/README.md)
+
+## 🧭 Formación Desarrollo Personal G9 - ONE
+
+Formación orientada a soft skills: foco, organización, comunicación y hábitos para el desempeño profesional.
+
+📄 **Detalle completo**: [PLAN-DE-ESTUDIOS-ONE.md](PLAN-DE-ESTUDIOS-ONE.md)
+
+## 🤝 Formación Emprendimiento, Agilidad y Protagonismo Profesional G9 - ONE
+
+Ruta enfocada en agilidad, liderazgo y protagonismo profesional para equipos de tecnología.
+
+📄 **Detalle completo**: [PLAN-DE-ESTUDIOS-ONE.md](PLAN-DE-ESTUDIOS-ONE.md)
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -147,6 +158,8 @@ Formación centrada en procesos ETL con NumPy y Pandas, lectura de múltiples fo
 
 ✅ **Desafio realizado:**
 - **Telecom X - Analisis de Evasion (Churn)** - Repositorio: https://github.com/MiyoBran/alura-etl-telecom-x
+
+🔄 **Progreso actual:** 7/8
 
 ## 📊 Trayecto Formativo ONE Estadisticas y Machine Learning
 
