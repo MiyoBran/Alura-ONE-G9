@@ -69,6 +69,12 @@ Este curso es parte de la formación en **Data Visualization** del programa **Or
 
 ---
 
+## 📓 Notebooks
+
+- `ETL_05_Visualizacion_de_datos_con_python.ipynb`
+
+---
+
 ## 🚀 Cómo Usar
 
 1. Clona el repositorio:

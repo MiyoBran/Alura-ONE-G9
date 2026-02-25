@@ -66,6 +66,12 @@ Este curso es parte de la formación en **Data Science** del programa **Oracle N
 
 ---
 
+## 📓 Notebooks
+
+- `04_Alura_Numpy.ipynb`
+
+---
+
 ## 🚀 Cómo Usar
 
 1. Clona el repositorio:
@@ -75,7 +81,7 @@ git clone https://github.com/MiyoBran/Alura-ONE-G9.git
 
 2. Navega a esta carpeta:
 ```bash
-cd formacion-Aprendiendo-a-hacer-ETL-G9-ONE/numpy-analisis-numerico-eficiente-python
+cd formacion-Aprendiendo-a-hacer-ETL-G9-ONE/01-numpy-analisis-numerico-eficiente-python
 ```
 
 3. Crea un entorno virtual (recomendado):

@@ -58,6 +58,16 @@ Este curso es parte de la formación en **Data Science** del programa **Oracle N
 
 ---
 
+## 📓 Notebooks
+
+- `ETL_02_Pandas_I_O.ipynb` (Aula 1 - CSV)
+- `ETL_02_Pandas_I_O_Excel.ipynb` (Aula 2 - Excel)
+- `ETL_02_Pandas_I_O_Json.ipynb` (Aula 3 - JSON)
+- `ETL_02_Pandas_I_O_HTML_XML.ipynb` (Aula 4 - HTML/XML)
+- `ETL_02_Pandas_I_O_Banco_Datos.ipynb` (Aula 5 - Base de datos)
+
+---
+
 ## 🚀 Cómo Usar
 
 1. Clona el repositorio:
@@ -67,7 +77,7 @@ git clone https://github.com/MiyoBran/Alura-ONE-G9.git
 
 2. Navega a esta carpeta:
 ```bash
-cd formacion-Aprendiendo-a-hacer-ETL-G9-ONE/pandas-e-s-diferentes-formatos-archivo
+cd formacion-Aprendiendo-a-hacer-ETL-G9-ONE/02-pandas-e-s-diferentes-formatos-archivo
 ```
 
 3. Crea un entorno virtual (recomendado):

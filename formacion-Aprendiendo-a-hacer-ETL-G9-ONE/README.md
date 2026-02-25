@@ -3,6 +3,15 @@
 
 Domina el arte del ETL con Pandas: una guia completa para extraer, transformar y cargar datos con la libreria mas popular de Python. Esta formacion es parte de la escuela Data Science dentro del Programa ONE (Alura Latam + Oracle). Duracion estimada: 71h.
 
+## Cursos completados (01-06)
+
+1. `01-numpy-analisis-numerico-eficiente-python/`
+2. `02-pandas-e-s-diferentes-formatos-archivo/`
+3. `03-pandas-transformacion-manipulacion-datos/`
+4. `04-pandas-seleccionar-agrupar-datos/`
+5. `05-visualizacion-datos-graficos-bibliotecas-python/`
+6. `06-visualizacion-datos-estilizando-tablas-python/`
+
 ## Trayecto formativo (desde el punto 3)
 
 ### 3. Paquete de datos
@@ -11,6 +20,7 @@ Aprende a usar NumPy para manipulacion de matrices y operaciones numericas esenc
 **Recursos**
 - NumPy: analisis numerico eficiente con Python
 - [Numpy: trabajando computacion cientifica con Python](https://www.aluracursos.com/blog/numpy-trabajando-computacion-cientifica-con-python)
+- Carpeta: `01-numpy-analisis-numerico-eficiente-python/`
 
 ### 4. Pandas
 Inicia con una de las bibliotecas mas usadas para la manipulacion y analisis de datos. Conocerás su lectura/escritura de datos, transformaciones, selecciones y agrupaciones aplicadas a proyectos reales.
@@ -22,6 +32,10 @@ Inicia con una de las bibliotecas mas usadas para la manipulacion y analisis de 
 - [Ampliando el analisis con Describe | Alura Cursos Online](https://www.aluracursos.com/blog/ampliando-la-analisis-con-el-describe)
 - [Pandas Python: que es, para que sirve y como descargarlo? | Alura Cursos Online](https://www.aluracursos.com/blog/pandas-python-que-es-para-que-sirve-como-descargar)
 - [Video - Youtube](https://www.youtube.com/watch?v=6__k-D4Y3Vk&t=9s)
+- Carpetas:
+	- `02-pandas-e-s-diferentes-formatos-archivo/`
+	- `03-pandas-transformacion-manipulacion-datos/`
+	- `04-pandas-seleccionar-agrupar-datos/`
 
 ### 5. Data Visualization
 Construye graficos claros e informativos con bibliotecas de Python. Aprende a crear visualizaciones basicas (lineas, barras, dispersion) y a personalizarlas para comunicar hallazgos con precision.
@@ -30,6 +44,9 @@ Construye graficos claros e informativos con bibliotecas de Python. Aprende a cr
 - Visualizacion de datos: creando graficos con bibliotecas de Python
 - [Data Visualization: conociendo las bibliotecas de Python | Alura Cursos Online](https://www.aluracursos.com/blog/data-visualization-conociendo-las-bibliotecas-del-python)
 - Visualizacion de Datos: estilizando tablas con Python
+- Carpetas:
+	- `05-visualizacion-datos-graficos-bibliotecas-python/`
+	- `06-visualizacion-datos-estilizando-tablas-python/`
 
 ### 6. Challenge
 Aplica todo lo aprendido en un caso real de analisis de datos enfocado en la evasión de clientes.

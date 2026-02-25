@@ -38,23 +38,22 @@ function scanProjects() {
   const projectDirs = fs.readdirSync(__dirname)
     .filter(dir => {
       const fullPath = path.join(__dirname, dir);
-      const subItems = fs.readdirSync(fullPath).filter(item => {
-        const itemPath = path.join(fullPath, item);
-        return fs.statSync(itemPath).isDirectory() &&
-               !item.startsWith('.') &&
-               (item.includes('2035-logica-programacion-2-Aula5') ||
-                item.includes('challenge') ||
-                item.includes('js-curso') ||
-                item.includes('html-css'));
-      });
-      return fs.statSync(fullPath).isDirectory() &&
-             !dir.startsWith('.') &&
-             dir !== 'node_modules' &&
-             (dir === 'formacion-programacion-primeros-pasos-grupo9-one' || 
-              dir.includes('2035-logica-programacion-2-Aula5') ||
-              dir.includes('challenge') ||
-              dir.includes('js-curso') ||
-              dir.includes('html-css'));
+      let isDirectory = false;
+
+      try {
+        isDirectory = fs.statSync(fullPath).isDirectory();
+      } catch (error) {
+        return false;
+      }
+
+      return isDirectory &&
+        !dir.startsWith('.') &&
+        dir !== 'node_modules' &&
+        (dir === 'formacion-programacion-primeros-pasos-grupo9-one' ||
+          dir.includes('2035-logica-programacion-2-Aula5') ||
+          dir.includes('challenge') ||
+          dir.includes('js-curso') ||
+          dir.includes('html-css'));
     });
 
   return projectDirs.map(dir => getProjectInfo(path.join(__dirname, dir)));

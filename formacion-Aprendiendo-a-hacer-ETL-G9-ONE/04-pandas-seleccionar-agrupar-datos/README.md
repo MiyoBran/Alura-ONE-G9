@@ -64,6 +64,12 @@ Este curso es parte de la formación en **Data Science** del programa **Oracle N
 
 ---
 
+## 📓 Notebooks
+
+- `ETL_04_Selección_y_agrupamiento_de_datos_con_pandas.ipynb`
+
+---
+
 ## 🚀 Cómo Usar
 
 1. Clona el repositorio:
@@ -73,7 +79,7 @@ git clone https://github.com/MiyoBran/Alura-ONE-G9.git
 
 2. Navega a esta carpeta:
 ```bash
-cd formacion-Aprendiendo-a-hacer-ETL-G9-ONE/pandas-seleccionar-agrupar-datos
+cd formacion-Aprendiendo-a-hacer-ETL-G9-ONE/04-pandas-seleccionar-agrupar-datos
 ```
 
 3. Crea un entorno virtual (recomendado):

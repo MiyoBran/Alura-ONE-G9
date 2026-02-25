@@ -62,6 +62,12 @@ Este curso es parte de la formación en **Data Science** del programa **Oracle N
 
 ---
 
+## 📓 Notebooks
+
+- `ETL_03_Pandas_Tratamiento_Manipulacion_Datos_4.ipynb`
+
+---
+
 ## 🚀 Cómo Usar
 
 1. Clona el repositorio:
@@ -71,7 +77,7 @@ git clone https://github.com/MiyoBran/Alura-ONE-G9.git
 
 2. Navega a esta carpeta:
 ```bash
-cd formacion-Aprendiendo-a-hacer-ETL-G9-ONE/pandas-transformacion-manipulacion-datos
+cd formacion-Aprendiendo-a-hacer-ETL-G9-ONE/03-pandas-transformacion-manipulacion-datos
 ```
 
 3. Crea un entorno virtual (recomendado):

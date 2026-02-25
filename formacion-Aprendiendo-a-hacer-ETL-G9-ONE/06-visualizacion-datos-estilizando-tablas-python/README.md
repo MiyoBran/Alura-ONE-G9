@@ -67,6 +67,12 @@ Este curso es parte de la formación en **Data Visualization** del programa **Or
 
 ---
 
+## 📓 Notebooks
+
+- `ETL_06_Estilizacion_de_tablas.ipynb`
+
+---
+
 ## 🚀 Cómo Usar
 
 1. Clona el repositorio:
@@ -76,7 +82,7 @@ git clone https://github.com/MiyoBran/Alura-ONE-G9.git
 
 2. Navega a esta carpeta:
 ```bash
-cd formacion-Aprendiendo-a-hacer-ETL-G9-ONE/visualizacion-datos-estilizando-tablas-python
+cd formacion-Aprendiendo-a-hacer-ETL-G9-ONE/06-visualizacion-datos-estilizando-tablas-python
 ```
 
 3. Crea un entorno virtual (recomendado):
