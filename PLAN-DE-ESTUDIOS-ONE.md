@@ -1,106 +1,75 @@
-Plan de estudios
-El plan de estudios fue creado para guiarte en este nuevo camino de aprendizaje. En él encontrarás el orden sugerido para realizar los cursos y el tiempo propuesto para completarlos. Con este plan, podrás seguir el ritmo del programa ONE y aprovechar al máximo tu tiempo de estudio.
+Por favor, recuerda calificar los cursos después del último ejercicio y de emitir tu certificado al final de cada curso.
 
-Buenos estudios
+Por favor, recuerda también completar la encuesta de cada curso técnico (los cursos técnicos son las formaciones de hard skills de las especializaciones elegidas).
 
-Concluido
-Site
-Trello
-3
-Aprender Lógica de Programación
-La lógica es la base de la programación y está presente en nuestra vida diaria, muchas veces sin notarlo. Por ejemplo, al cepillarnos los dientes seguimos un algoritmo: no podemos cepillarnos sin antes poner pasta en el cepillo.
+logo ONE
 
-En programación, la lógica consiste en una secuencia de pasos para resolver problemas. El computador ejecuta estas instrucciones definidas por el programador, por lo que es esencial comprender qué instrucciones entiende y cómo comunicarlas de forma efectiva.
+Creado por
+Oracle ONE - ARGENTINA 9
 
-ATENCIÓN
 
-El primer curso de lógica de programación | Lógica de programación: sumérgete en la programación con JavaScript, debe completarse antes del martes 12 de agosto de 2025.
+ Creado en 08/10/2025
 
-Concluido
-Video
-¿Qué es la lógica de programación y cómo aplicarla? #AluraMás - YouTube
+¿Qué es este plan de estudio?
+Paso a paso
 
-Concluido
-Curso
-Lógica de programación: sumérgete en la programación con JavaScript
 
-Concluido
-Artículo
-5 dudas de quien quiere iniciarse en la carrera de programación | Alura Cursos Online
+### Formación Desarrollo Personal G9 - ONE 5/5
+Desarrolla habilidades y hábitos fundamentales para el mercado de trabajo
+¿Qué es lo que vas a aprender?
+En el mundo competitivo, conectado y dinámico de hoy las habilidades blandas o soft skills son competencias totalmente necesarias para tener un buen desempeño profesional. Es por ello que las empresas están preocupándose cada vez más por contratar personas con estas habilidades desarrolladas.
 
-Concluido
-Curso
-Lógica de programación: explorar funciones y listas
+Es por ello que independientemente del área de actuación debemos preocuparnos por nuestro desarrollo personal y profesional en soft skills.
 
-Concluido
-Video
-Cuándo usar let, var y const? #AluraMás - YouTube
-4
-Ganar experiencia con Git
-Es muy importante prepararse para trabajar en equipo en el área de desarrollo, ya que, nadie trabaja solo. Entonces vamos a aprender sobre el sistema de versionamiento de código más utilizado en el mundo: Github, que nos permite compartir código con otras personas de manera simple y segura.
+¿Cómo mejorar el desarrollo personal?
+Durante los cursos vas a conocer herramientas para promover tu foco, aprender conceptos como el loop del hábito, el método S.M.A.R.T, GTD (Getting Things Done) y aplicarlos para mejorar tu organización y desarrollar nuevos hábitos y mejorar tu desarrollo personal.
 
-Realizar un buen trabajo en equipo pasa por tener un control de versión de código, así podemos recuperar, revisar y mejorarlo, cada vez más. Conocer un sistema de control de versión como Git es esencial para mantener la calidad y la productividad del trabajo.
+¿Cuál es la importancia del desarrollo personal?
+El desarrollo personal ayuda a establecer un mindset de alta performance, desarrollar la oratoria, mejorar las relaciones interpersonales y a entender como ofrecer y recibir feedbacks de la mejor forma.
 
-Concluido
-Artículo
-Guía sobre cómo instalar Git en diferentes sistemas operativos | Alura Cursos Online
+Al concluir estar Formación habrás desarrollado habilidades que son claves para los nuevos desafíos del mercado de trabajo.
 
-Concluido
-Curso
-Git y GitHub: repositorio, commit y versiones
+Esta formación forma parte del Programa ONE, una alianza entre Alura Latam y Oracle.
 
-Concluido
-Artículo
-Iniciando un repositorio con Git
+### Formación Principiante en Programación G9 - ONE 10/10
 
-Concluido
-Artículo
-Buenas practicas en git: evitando errores | Alura Cursos Online
-5
-Encara el Challenge de Principiante en Programación
-¿Qué son los Challenges Alura?
+Una guía básica inicial para quien desea entrar en el universo de programación y comenzar con la creación de páginas web utilizando los lenguajes populares de HTML, CSS y JavaScript
 
-Son una metodología basada en el Challenge-Based Learning, un enfoque de aprendizaje basado en desafíos desarrollado por Apple. El Desafío Amigo Secreto es un paso importante para el éxito en el programa ONE. A través de la práctica y el perfeccionamiento de la lógica de programación, podrás consolidar tus conocimientos, dominar el pensamiento lógico, mejorar tus habilidades de análisis y resolución de problemas, y ampliar tu perspectiva en el mundo del desarrollo.
+Si no conoces absolutamente nada sobre programación y desarrollo de software, pero deseas ingresar al área desarrollo y de tecnología, entonces esta formación de Principiante en Programación es para tí.
 
-¡Manos a la obra!
+Recuerda que el mercado global tiene una demanda muy grande por profesionales de tecnología y principalmente programadores, y lo más impresionantemente es que cada año esa demanda crece aún más.
 
-Concluido
-Curso
-Practicando Lógica de Programación: Challenge Amigo secreto
-6
-Domina la IA Generativa
-Aprende a utilizar inteligencias artificiales generativas, como ChatGPT, Gemini, Google AI Studio y Maritaca AI, para crear, revisar y manipular textos, manejar diferentes tipos de medios y aumentar la productividad en el entorno laboral. También aprenderás los fundamentos de los modelos de lenguaje (LLMs), el uso de tokens y técnicas avanzadas de ingeniería de prompts, incluyendo estrategias como few-shot prompting, chain-of-thought, chain-of-verification y self-consistency, para diseñar interacciones más efectivas y precisas con sistemas de IA.
+En esta formación lo primero que aprenderás será sobre Lógica de Programación, que es la base de cualquier carrera o profesión relacionada con tecnología. Aprender la lógica de programación es fundamental para el desarrollo de software porque proporciona las bases para crear, analizar y resolver problemas computacionales de una manera estructurada y eficiente.
 
-Concluido
-Curso
-IA: explorando el potencial de la Inteligencia Artificial Generativa
+Si trabajas en otras áreas como ciencia de datos, marketing digital, experiencia de usuario (UX), diseño u otras relacionadas, esta formación te ayudará a entender mejor como el área de los desarrolladores funciona. De esta forma podrás comunicarte de manera más fluida y objetiva con el equipo de Desarrollo.
 
-Concluido
-Curso
-Ingeniería de Prompt: creando prompts eficaces para la IA generativa
-7
-Crea tus primeras páginas web
-Conocer HTML y CSS es indispesanble para cualquier profesional de tecnología. Estas habilidades permiten comprender la estructura y diseño de las páginas web, lo que facilita la comunicación con equipos de desarrollo y mejora la colaboración en proyectos digitales. Además, entender cómo se crean y estilizan las interfaces ayuda a optimizar el contenido para usuarios y buscadores. Todos los profesionales de cualquier área de técnología pueden beneficiarse al interpretar y ajustar elementos básicos de un sitio web, fortaleciendo su perfil técnico y mejorando la eficiencia en entornos tecnológicos.
+Esta formación forma parte del Programa ONE, una alianza entre Alura Latam y Oracle.
 
-Concluido
-Artículo
-HTML, CSS y Javascript, ¿cuáles son las diferencias?
+## FormaciónPróximos Pasos ONE Grupo 9 (G9) Tech Foundation - Etapa Especialización
 
-66%
-Curso
-HTML y CSS: ambientes de desarrollo, estructura de archivos y tags
+### Formación Emprendimiento, Agilidad y Protagonismo Profesional G9 - ONE 5/5
+Esta formación es una completa guía de aprendizaje para mejorar la relación que creas con tus expectativas profesionales. En primer lugar, aprenderás a identificar las demandas del mercado, y así dirigir tus esfuerzos hacia la consecución de ese codiciado puesto de trabajo.
 
-0%
-Curso
-HTML y CSS: Clases, Posicionamiento y Flexbox
+Una gestión consciente y organizada de la carrera profesional puede ayudarte a ganar nuevas oportunidades, incluso cuando se trata de una transición profesional. Es habitual tener dudas sobre cómo llevar a cabo este proceso de la forma más saludable, asegurándote de que se valoran tus experiencias previas y de que las empresas se dan cuenta de tu potencial, aprovechando así al máximo las oportunidades que surjan.
 
-Artículo
-Centrar un elemento con CSS
+Esta formación forma parte del Programa ONE, una alianza entre Alura Latam y Oracle.
 
-0%
-Curso
-HTML y CSS: header, footer y variables CSS
+### Formación Fundamentos de Python y Datos G9 - ONE 7/7
+Si estás comenzando tu camino en Data Science y quieres dominar los conceptos esenciales, esta formación en Fundamentos de Python y Datos es el punto de partida ideal.
 
-0%
-Curso
-HTML y CSS: trabajando con responsividad y publicación de proyectos
+A lo largo de ella, aprenderás a programar en Python, explorando desde variables, estructuras de control y funciones hasta el manejo de excepciones. También tendrás tu primer contacto con bibliotecas fundamentales como Pandas y Matplotlib, aplicando operaciones en tablas y construyendo gráficos básicos que ya permiten realizar análisis iniciales de datos.
+
+Para consolidar el aprendizaje, participarás en el Challenge Alura Store, un proyecto práctico donde analizarás datos reales y aplicarás todo lo que aprendiste para apoyar la toma de decisiones. La formación se cierra con una introducción a la modelación de datos en MySQL, que amplía tu visión sobre cómo estructurar y organizar la información de manera eficiente.
+
+Con ello, construyes una base sólida en programación y datos, conectando teoría y práctica desde el inicio y quedando listo para los próximos pasos de tu camino en Data Science.
+
+### Formación Aprendiendo a hacer ETL G9 - ONE 7/8
+En esta segunda formación aprenderás el método ETL (Extracción, Transformación y Carga), fundamental para trabajar con datos de forma eficiente. Exploraremos cómo extraer datos de una variedad de fuentes, realizar el procesamiento necesario para limpiar y formatear la información y, finalmente, cargar esos datos en un formato estructurado para su análisis. Este proceso es esencial para garantizar que los datos estén listos para generar información y respaldar la toma de decisiones.
+
+Esta formación forma parte del Programa ONE, una alianza entre Alura Latam y Oracle.
+
+### Formación Estadisticas y Machine Learning G9 - ONE 0/8
+
+En esta formación aprenderás los conceptos esenciales de estadística, fundamentales para el campo de la Ciencia de Datos. Luego pasará a la regresión lineal, que le permitirá comprender cómo predecir eficazmente tendencias y modelar relaciones entre variables. Finalmente, explorará los fundamentos del aprendizaje automático, aprenderá cómo construir modelos predictivos y aplicar técnicas modernas de aprendizaje automático para resolver problemas del mundo real.
+
+Esta formación forma parte del Programa ONE, una alianza entre Alura Latam y Oracle.
