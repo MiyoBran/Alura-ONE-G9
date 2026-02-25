@@ -3,7 +3,7 @@
 
 Domina el arte del ETL con Pandas: una guia completa para extraer, transformar y cargar datos con la libreria mas popular de Python. Esta formacion es parte de la escuela Data Science dentro del Programa ONE (Alura Latam + Oracle). Duracion estimada: 71h.
 
-## Cursos completados (01-06)
+## Cursos completados (01-07)
 
 1. `01-numpy-analisis-numerico-eficiente-python/`
 2. `02-pandas-e-s-diferentes-formatos-archivo/`
@@ -11,6 +11,7 @@ Domina el arte del ETL con Pandas: una guia completa para extraer, transformar y
 4. `04-pandas-seleccionar-agrupar-datos/`
 5. `05-visualizacion-datos-graficos-bibliotecas-python/`
 6. `06-visualizacion-datos-estilizando-tablas-python/`
+7. `07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/`
 
 ## Trayecto formativo (desde el punto 3)
 
@@ -60,6 +61,9 @@ Aplica todo lo aprendido en un caso real de analisis de datos enfocado en la eva
 ### 7. Inteligencia Artificial aplicada a la ciencia de datos
 Aprende a usar ChatGPT como asistente para analisis y visualizacion: disena graficos personalizados, evalua limites de la IA y construye un informe interactivo con Gamma y ChatGPT.
 
-**Recurso**
+**Recursos**
 - IA aplicada a la ciencia de datos: uso de la IA en la construccion de visualizacion de datos
+- ✅ **Completado**
+- Carpeta: `07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/`
+- [README del curso](07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/README.md)
 

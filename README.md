@@ -71,7 +71,7 @@ La página funciona como un **blog/índice interactivo** que permite acceder fá
 - **Principiante en Programación G9 - ONE**: 10/10
 - **Emprendimiento, Agilidad y Protagonismo Profesional G9 - ONE**: 5/5
 - **Fundamentos de Python y Datos G9 - ONE**: 7/7
-- **Aprendiendo a hacer ETL G9 - ONE**: 7/8
+- **Aprendiendo a hacer ETL G9 - ONE**: 8/8
 - **Estadísticas y Machine Learning G9 - ONE**: 0/8
 
 ## 🗂️ Estructura del Proyecto
