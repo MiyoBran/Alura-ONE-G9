@@ -16,7 +16,7 @@ En esta guía revisaremos los principales tipos de gráficos, cuándo usarlos, s
 ### Gráfico de Columnas
 Un gráfico de columnas es ideal para representar valores numéricos de una o más categorías de datos, sean discretas o de intervalos definidos. Facilita una comparación rápida y directa entre diferentes categorías, siendo uno de los gráficos más utilizados en informes y presentaciones.
 
-![Gráfico de Columnas](https://upload.wikimedia.org/wikipedia/commons/3/3a/Bar_chart_example.svg)
+![Gráfico de Columnas](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/01_columnas_metodos_pago.png)
 
 **Ventajas:**
 - Fácil de interpretar
@@ -30,7 +30,7 @@ Un gráfico de columnas es ideal para representar valores numéricos de una o m�
 ### Gráfico de Barras Horizontales
 El gráfico de barras horizontales es ideal cuando queremos presentar las categorías a la izquierda de forma horizontal, siendo la forma más fluida de leer textos que puedan ser extensos. El enfoque de este tipo de gráfico está primero en la categoría de los datos y, en segundo lugar, en los valores numéricos.
 
-![Gráfico de Barras Horizontales](https://upload.wikimedia.org/wikipedia/commons/1/1b/Horizontal_bar_chart_example.svg)
+![Gráfico de Barras Horizontales](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/02_barras_horizontales_facturacion_categoria.png)
 
 **Ventajas:**
 - Mejor legibilidad de etiquetas largas
@@ -47,7 +47,7 @@ El gráfico de barras horizontales es ideal cuando queremos presentar las catego
 ### Columnas Agrupadas
 Un gráfico de columnas agrupadas es ideal cuando queremos comparar diferentes categorías respecto a una variable, mostrando cómo los valores se comparan dentro de cada categoría (por ejemplo, trimestres) en columnas separadas (por ejemplo, productos A, B y C) y entre los diferentes grupos, facilitando la visualización de patrones y diferencias entre ellos.
 
-![Columnas Agrupadas](https://drawingdata.io/assets/grouped_column_chart_example.png)
+![Columnas Agrupadas](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/03_columnas_agrupadas_facturacion_region_sexo.png)
 
 **Ventajas:**
 - Permite comparar múltiples series fácilmente
@@ -61,7 +61,7 @@ Un gráfico de columnas agrupadas es ideal cuando queremos comparar diferentes c
 ### Columnas Apiladas
 Un gráfico de columnas apiladas es útil cuando queremos añadir a la comparación entre periodos o categorías, la comparación dentro de cada una. Este tipo de gráfico permite observar la composición de cada columna según la variable deseada (por ejemplo, las preferencias de consumo de café o té).
 
-![Columnas Apiladas](https://www.svgrepo.com/show/513264/chart-column-stacked.svg)
+![Columnas Apiladas](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/04_columnas_apiladas_facturacion_trimestre_metodo.png)
 
 **Ventajas:**
 - Muestra composición dentro de cada categoría
@@ -77,7 +77,7 @@ Un gráfico de columnas apiladas es útil cuando queremos añadir a la comparaci
 
 Los gráficos de línea son ideales para representar tendencias a lo largo del tiempo o una secuencia ordenada. Cuando se tiene una gran cantidad de periodos, vale la pena usar gráficos de líneas para representar series temporales.
 
-![Gráfico de Línea](https://upload.wikimedia.org/wikipedia/commons/2/2c/Line_chart_example.svg)
+![Gráfico de Línea](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/05_linea_ventas_mensuales.png)
 
 **Ventajas:**
 - Excelente para mostrar tendencias temporales
@@ -103,7 +103,7 @@ Los gráficos de líneas pueden añadir una variable categórica a los análisis
 ### Gráfico de Pastel (Pie Chart)
 El gráfico de pastel se usa para representar proporciones de diferentes categorías o partes de un todo. Es ideal para composiciones estáticas, ya sea por valores numéricos o porcentajes.
 
-![Gráfico de Pastel](https://upload.wikimedia.org/wikipedia/commons/3/3f/Charts_SVG_Example_5_-_Simple_Pie_Chart.svg)
+![Gráfico de Pastel](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/06_pastel_proporcion_sexo.png)
 
 **Ventajas:**
 - Intuitivo para mostrar composición porcentual
@@ -123,7 +123,7 @@ El gráfico de pastel se usa para representar proporciones de diferentes categor
 ### Gráfico de Dona (Donut Chart)
 El gráfico de dona es una alternativa moderna al gráfico de pastel, adecuado cuando queremos reducir la superficie colorida, pasando a utilizar coronas circulares. Ambos gráficos son ideales para pocas categorías de datos.
 
-![Gráfico de Dona](https://www.svgrepo.com/show/513265/chart-donut.svg)
+![Gráfico de Dona](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/07_dona_cashback.png)
 
 **Ventajas:**
 - Menos abrumador visualmente que pastel
@@ -158,7 +158,7 @@ Los gráficos de cascada se usan para visualizar ajustes incrementales a un valo
 
 Los histogramas se utilizan para observar la distribución de los datos en un intervalo dado. Estos intervalos, llamados "bins", muestran cuántas observaciones caen dentro de esa franja.
 
-![Histograma](https://upload.wikimedia.org/wikipedia/commons/5/5b/Histogram_example.svg)
+![Histograma](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/08_histograma_notas.png)
 
 **Ventajas:**
 - Muestra distribución de frecuencias claramente
@@ -185,7 +185,7 @@ Los histogramas se utilizan para observar la distribución de los datos en un in
 
 Los gráficos de dispersión se utilizan para representar la relación o distribución entre dos variables numéricas. Cada punto en el gráfico representa una combinación de coordenadas, facilitando la identificación de patrones, tendencias y correlaciones importantes para el aprendizaje automático y análisis exploratorio.
 
-![Scatter Plot](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mpl_example_scatter_plot.svg)
+![Scatter Plot](https://raw.githubusercontent.com/MiyoBran/Alura-ONE-G9/main/formacion-Aprendiendo-a-hacer-ETL-G9-ONE/07-ia-aplicada-ciencia-datos-uso-ia-construccion-visualizacion-datos/graficos_zoop/09_scatter_edad_nota.png)
 
 **Ventajas:**
 - Muestra correlaciones entre variables claramente
