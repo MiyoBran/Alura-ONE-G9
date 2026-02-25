@@ -53,6 +53,9 @@ Aplica todo lo aprendido en un caso real de analisis de datos enfocado en la eva
 
 **Recurso**
 - Challenge Telecom X: analisis de evasion de clientes
+- ✅ **Completado** → [Repositorio del Challenge](https://github.com/MiyoBran/alura-etl-telecom-x)
+- [Informe Final](https://github.com/MiyoBran/alura-etl-telecom-x/blob/main/Informe-Final.md)
+- [Notebook de trabajo](https://github.com/MiyoBran/alura-etl-telecom-x/blob/main/TelecomX_LATAM.ipynb)
 
 ### 7. Inteligencia Artificial aplicada a la ciencia de datos
 Aprende a usar ChatGPT como asistente para analisis y visualizacion: disena graficos personalizados, evalua limites de la IA y construye un informe interactivo con Gamma y ChatGPT.
