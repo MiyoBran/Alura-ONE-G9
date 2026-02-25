@@ -375,6 +375,34 @@ body {
     color: white;
 }
 
+.project-card.featured .project-image {
+    background: rgba(255, 255, 255, 0.18);
+}
+
+.project-card.featured .project-image i {
+    color: white;
+}
+
+.project-card.featured .project-description {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.project-card.featured .tech-tag {
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+}
+
+.project-card.featured .btn-outline {
+    border-color: rgba(255, 255, 255, 0.6);
+    color: white;
+}
+
+.project-card.featured .btn-outline:hover {
+    background: rgba(255, 255, 255, 0.12);
+    border-color: rgba(255, 255, 255, 0.9);
+    color: white;
+}
+
 .project-image {
     display: flex;
     align-items: center;
@@ -513,6 +541,23 @@ body {
     color: var(--text-secondary);
     margin-bottom: var(--space-md);
     line-height: 1.6;
+}
+
+.track-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-sm);
+    margin-bottom: var(--space-md);
+}
+
+.track-tag {
+    background: rgba(163, 230, 53, 0.14);
+    color: var(--accent-color);
+    padding: var(--space-xs) var(--space-sm);
+    border-radius: var(--radius-md);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.3px;
 }
 
 .track-link {
@@ -795,6 +840,6 @@ body {
 }
 
 .project-card:hover .tech-tag {
-    background: rgba(102, 126, 234, 0.2);
+    background: rgba(20, 184, 166, 0.2);
     transform: translateY(-1px);
 }

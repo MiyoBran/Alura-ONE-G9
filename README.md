@@ -44,9 +44,9 @@ La página funciona como un **blog/índice interactivo** que permite acceder fá
 ### 🎨 **Diseño Moderno**
 
 - **Diseño responsive** que se adapta a cualquier dispositivo
-- **Tema dark mode** con gradientes atractivos
+- **Tema dark mode** con gradientes teal/lime y brillo suave
 - **Animaciones suaves** y efectos visuales
-- **Typography moderna** con Google Fonts (Inter + Merriweather)
+- **Typography moderna** con Google Fonts (Space Grotesk + Fraunces)
 
 ### 🚀 **Funcionalidades Interactivas**
 
@@ -115,7 +115,7 @@ Formación enfocada en lógica de programación, fundamentos de JavaScript y des
   - DOM Manipulation
   - Local Storage
 - ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat&logo=fontawesome&logoColor=white) **Font Awesome Icons**
-- **Google Fonts** (Inter & Merriweather)
+- **Google Fonts** (Space Grotesk & Fraunces)
 
 ## 🐍 Trayecto Formativo ONE Fundamentos de Python y Datos
 
@@ -184,13 +184,13 @@ La página está optimizada para:
 
 ```css
 :root {
-    --primary-color: #667eea;      /* Azul principal */
-    --secondary-color: #764ba2;    /* Púrpura */
-    --accent-color: #f093fb;       /* Rosa */
-    --bg-primary: #0f0f23;         /* Fondo oscuro */
-    --bg-secondary: #1a1a2e;       /* Fondo secundario */
-    --text-primary: #ffffff;        /* Texto principal */
-    --text-secondary: #cbd5e1;     /* Texto secundario */
+  --primary-color: #14b8a6;      /* Teal principal */
+  --secondary-color: #0f766e;    /* Teal oscuro */
+  --accent-color: #a3e635;       /* Lima */
+  --bg-primary: #0b1220;         /* Fondo oscuro */
+  --bg-secondary: #0f172a;       /* Fondo secundario */
+  --text-primary: #e2e8f0;       /* Texto principal */
+  --text-secondary: #cbd5e1;     /* Texto secundario */
 }
 ```
 
