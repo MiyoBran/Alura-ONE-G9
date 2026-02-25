@@ -92,39 +92,14 @@ La página funciona como un **blog/índice interactivo** que permite acceder fá
 
 ## 🎓 Trayecto Formativo ONE Primeros Pasos
 
-Este portafolio documenta mi progreso en la formación **"Principiante en Programación"** siguiendo el plan de estudios oficial de Oracle Next Education (ONE) + Alura LATAM:
+Formación enfocada en lógica de programación, fundamentos de JavaScript y desarrollo web básico con HTML y CSS. Incluye proyectos prácticos y un challenge integrador.
 
-### � **Paso 3: Aprender Lógica de Programación**
+**Incluye:**
+- Lógica de programación con JavaScript
+- Desarrollo web inicial con HTML y CSS
+- Challenges de práctica (Amigo Secreto, JS Curso 2)
 
-La lógica es la base de la programación y está presente en nuestra vida diaria. En programación, consiste en una secuencia de pasos para resolver problemas.
-
-✅ **Proyecto Desarrollado:**
-
-- **Lógica de Programación - Curso Completo** - Proyecto integrador que abarca ambos cursos:
-  - "Lógica de programación: sumérgete en la programación con JavaScript"
-  - "Lógica de programación: explorar funciones y listas"
-
-### 🏆 **Paso 5: Challenge de Principiante en Programación**
-
-Metodología basada en Challenge-Based Learning para consolidar conocimientos a través de la práctica.
-
-✅ **Challenge Completado:**
-
-- **Amigo Secreto** - Aplicación de sorteo con validaciones avanzadas
-
-### 🌐 **Paso 7: Crea tus primeras páginas web**
-
-HTML y CSS son indispensables para cualquier profesional de tecnología, permitiendo comprender estructura y diseño web.
-
-🔄 **En Progreso (100% completado):**
-
-- **HTML y CSS - Desarrollo y Estructura** - Ambientes de desarrollo, estructura de archivos y tags
-
-### 🎯 **Desafíos Adicionales**
-
-- **JavaScript Curso 2 - Desafío** - Desafío final de la formación
-
-> 💡 **Nota**: Estos proyectos representan mi evolución desde no conocer absolutamente nada sobre programación hasta desarrollar aplicaciones funcionales con JavaScript, HTML y CSS.
+📄 **README de la formación**: [formacion-programacion-primeros-pasos-grupo9-one/README.md](formacion-programacion-primeros-pasos-grupo9-one/README.md)
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -144,6 +119,10 @@ HTML y CSS son indispensables para cualquier profesional de tecnología, permiti
 
 ## 🐍 Trayecto Formativo ONE Fundamentos de Python y Datos
 
+Formación orientada a Python para Data Science, estructuras de datos, bibliotecas clave y modelado de bases de datos. Incluye ejercicios y notebooks guiados.
+
+📄 **README de la formación**: [formacion-fundamentos-de-python-y-datos-grupo9-one/README.md](formacion-fundamentos-de-python-y-datos-grupo9-one/README.md)
+
 ### 🐍 **Paso 8: Fundamentos de Python y Datos**
 
 Trayecto formativo finalizado con 49 horas de aprendizaje enfocado en ciencia de datos y bases de datos.
@@ -162,10 +141,18 @@ Trayecto formativo finalizado con 49 horas de aprendizaje enfocado en ciencia de
 
 ## 🔄 Trayecto Formativo ONE Aprendiendo a hacer ETL
 
+Formación centrada en procesos ETL con NumPy y Pandas, lectura de múltiples formatos, transformación de datos y visualización para análisis.
+
+📄 **README de la formación**: [formacion-Aprendiendo-a-hacer-ETL-G9-ONE/README.md](formacion-Aprendiendo-a-hacer-ETL-G9-ONE/README.md)
+
 ✅ **Desafio realizado:**
 - **Telecom X - Analisis de Evasion (Churn)** - Repositorio: https://github.com/MiyoBran/alura-etl-telecom-x
 
 ## 📊 Trayecto Formativo ONE Estadisticas y Machine Learning
+
+Formación dedicada a estadística aplicada, regresión, clasificación y validación de modelos. Enfocada en fundamentos de ML con Python.
+
+📄 **README de la formación**: [formacion-estadisticas-y-machine-learning-grupo9-one/README.md](formacion-estadisticas-y-machine-learning-grupo9-one/README.md)
 
 🔄 **En progreso:**
 - Desafio pendiente
