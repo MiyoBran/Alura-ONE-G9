@@ -170,6 +170,75 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 
+// Vista previa de archivos Markdown en modal
+document.addEventListener('DOMContentLoaded', function() {
+    const modal = document.querySelector('.md-modal');
+    if (!modal) {
+        return;
+    }
+
+    const modalTitle = modal.querySelector('.md-modal-title');
+    const modalBody = modal.querySelector('.md-modal-body');
+    const modalClose = modal.querySelector('.md-modal-close');
+
+    const closeModal = () => {
+        modal.classList.remove('is-open');
+        modal.setAttribute('aria-hidden', 'true');
+        document.body.classList.remove('md-modal-open');
+    };
+
+    const openModal = async (url, titleText) => {
+        modal.classList.add('is-open');
+        modal.setAttribute('aria-hidden', 'false');
+        document.body.classList.add('md-modal-open');
+        modalTitle.textContent = titleText || 'Vista previa';
+        modalBody.innerHTML = '<p class="md-loading">Cargando contenido...</p>';
+
+        try {
+            const response = await fetch(url);
+            if (!response.ok) {
+                throw new Error('No se pudo cargar el markdown');
+            }
+            const markdownText = await response.text();
+            const rawHtml = window.marked ? window.marked.parse(markdownText) : markdownText;
+            const safeHtml = window.DOMPurify ? window.DOMPurify.sanitize(rawHtml) : rawHtml;
+            modalBody.innerHTML = safeHtml;
+        } catch (error) {
+            modalBody.innerHTML = '<p class="md-error">No se pudo cargar el contenido. Intenta de nuevo.</p>';
+        }
+    };
+
+    document.addEventListener('click', function(event) {
+        const link = event.target.closest('a[href$=".md"]');
+        if (!link) {
+            return;
+        }
+
+        if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) {
+            return;
+        }
+
+        event.preventDefault();
+        const href = link.getAttribute('href');
+        const titleText = link.textContent.trim();
+        openModal(href, titleText);
+    });
+
+    modalClose.addEventListener('click', closeModal);
+
+    modal.addEventListener('click', function(event) {
+        if (event.target === modal) {
+            closeModal();
+        }
+    });
+
+    document.addEventListener('keydown', function(event) {
+        if (event.key === 'Escape' && modal.classList.contains('is-open')) {
+            closeModal();
+        }
+    });
+});
+
 // Efecto de partículas en el fondo (opcional)
 function createParticle() {
     const particle = document.createElement('div');

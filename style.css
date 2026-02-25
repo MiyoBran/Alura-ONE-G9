@@ -709,6 +709,135 @@ body {
     color: var(--primary-color);
 }
 
+/* Markdown Modal */
+.md-modal {
+    position: fixed;
+    inset: 0;
+    background: rgba(11, 18, 32, 0.72);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--space-xl);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity var(--transition-normal), visibility var(--transition-normal);
+    z-index: 2000;
+}
+
+.md-modal.is-open {
+    opacity: 1;
+    visibility: visible;
+}
+
+.md-modal-panel {
+    width: min(900px, 100%);
+    max-height: 85vh;
+    background: var(--gradient-card);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: var(--radius-xl);
+    box-shadow: var(--shadow-xl);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.md-modal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--space-md) var(--space-lg);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    background: rgba(15, 23, 42, 0.8);
+}
+
+.md-modal-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.md-modal-close {
+    border: none;
+    background: transparent;
+    color: var(--text-secondary);
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: var(--transition-normal);
+}
+
+.md-modal-close:hover {
+    color: var(--primary-color);
+}
+
+.md-modal-body {
+    padding: var(--space-lg);
+    overflow: auto;
+}
+
+body.md-modal-open {
+    overflow: hidden;
+}
+
+/* Markdown content styling */
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4 {
+    font-family: 'Fraunces', serif;
+    margin: var(--space-lg) 0 var(--space-sm);
+}
+
+.markdown-body h1 {
+    font-size: 2rem;
+}
+
+.markdown-body h2 {
+    font-size: 1.6rem;
+}
+
+.markdown-body h3 {
+    font-size: 1.3rem;
+}
+
+.markdown-body p,
+.markdown-body li {
+    color: var(--text-secondary);
+    line-height: 1.7;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+    padding-left: 1.5rem;
+    margin: var(--space-sm) 0 var(--space-md);
+}
+
+.markdown-body code {
+    background: rgba(148, 163, 184, 0.15);
+    padding: 0.1rem 0.3rem;
+    border-radius: var(--radius-sm);
+}
+
+.markdown-body pre {
+    background: rgba(15, 23, 42, 0.9);
+    padding: var(--space-md);
+    border-radius: var(--radius-md);
+    overflow: auto;
+    margin: var(--space-md) 0;
+}
+
+.markdown-body a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+.markdown-body a:hover {
+    color: var(--accent-color);
+}
+
+.md-loading,
+.md-error {
+    color: var(--text-secondary);
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .nav-menu {
