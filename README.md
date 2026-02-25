@@ -20,7 +20,7 @@
 
 ## 📖 Descripción
 
-Esta es la **página principal** del portafolio que centraliza todos los proyectos desarrollados durante mi formación en la ruta **"Principiante en Programación"** del programa **Oracle Next Education (ONE)** en colaboración con **Alura LATAM**.
+Este repositorio es la **página principal** del portafolio que centraliza todos los proyectos y formaciones completadas durante mi trayectoria en **Oracle Next Education (ONE)** + **Alura LATAM**. Incluye rutas completas de **Programación** y **Data Science**, con proyectos, notebooks y documentación de cada formación.
 
 ## 🌐 **Ver Portfolio en Vivo**
 
@@ -65,6 +65,16 @@ La página funciona como un **blog/índice interactivo** que permite acceder fá
 - **Navegación adaptable** en todos los dispositivos
 - **Imágenes optimizadas** para diferentes pantallas
 
+## ✅ Estado de avance
+
+- **Desarrollo Personal G9 - ONE**: 10/10
+- **Principiante en Programación G9 - ONE**: 5/5
+- **Emprendimiento, Agilidad y Protagonismo Profesional G9 - ONE**: 7/7
+- **Fundamentos de Python y Datos G9 - ONE**: 7/8
+- **Aprendiendo a hacer ETL G9 - ONE**: 0/8
+- **Estadísticas y Machine Learning G9 - ONE**: 0/8
+- **Próximos Pasos ONE Grupo 9 (G9) Tech Foundation - Etapa Especialización**: 5/5
+
 ## 🗂️ Estructura del Proyecto
 
 ```
@@ -73,10 +83,14 @@ La página funciona como un **blog/índice interactivo** que permite acceder fá
 ├── style.css           # Estilos CSS con variables y responsive
 ├── app.js              # JavaScript para interactividad
 ├── README.md           # Este archivo
-└── [carpetas-proyectos] # Enlaces a todos los proyectos
+├── formacion-programacion-primeros-pasos-grupo9-one/
+├── formacion-fundamentos-de-python-y-datos-grupo9-one/
+├── formacion-Aprendiendo-a-hacer-ETL-G9-ONE/
+├── formacion-estadisticas-y-machine-learning-grupo9-one/
+└── Assets-IA-Tools/
 ```
 
-## � Trayecto Formativo ONE
+## 🎓 Trayecto Formativo ONE Primeros Pasos
 
 Este portafolio documenta mi progreso en la formación **"Principiante en Programación"** siguiendo el plan de estudios oficial de Oracle Next Education (ONE) + Alura LATAM:
 
@@ -102,23 +116,9 @@ Metodología basada en Challenge-Based Learning para consolidar conocimientos a 
 
 HTML y CSS son indispensables para cualquier profesional de tecnología, permitiendo comprender estructura y diseño web.
 
-🔄 **En Progreso (66% completado):**
+🔄 **En Progreso (100% completado):**
 
 - **HTML y CSS - Desarrollo y Estructura** - Ambientes de desarrollo, estructura de archivos y tags
-
-### 🐍 **Paso 8: Fundamentos de Python y Datos**
-
-Trayecto formativo finalizado con 49 horas de aprendizaje enfocado en ciencia de datos y bases de datos.
-
-✅ **Temas dominados:**
-
-- **Python para Data Science** - Estructuras, funciones y resolucion de problemas
-- **Biblioteca Pandas** - ETL, limpieza y analisis exploratorio (EDA)
-- **Modelado de Bases de Datos** - Diseño conceptual y reglas de negocio
-
-✅ **Desafio realizado:**
-
-- **Alura Store - Analisis de Datos** - Desafio aplicado con repositorio publico: https://github.com/MiyoBran/alura-store-desafio
 
 ### 🎯 **Desafíos Adicionales**
 
@@ -142,24 +142,35 @@ Trayecto formativo finalizado con 49 horas de aprendizaje enfocado en ciencia de
 - ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat&logo=fontawesome&logoColor=white) **Font Awesome Icons**
 - **Google Fonts** (Inter & Merriweather)
 
-## 🚀 Cómo usar
+## 🐍 Trayecto Formativo ONE Fundamentos de Python y Datos
 
-### 📥 **Instalación**
+### 🐍 **Paso 8: Fundamentos de Python y Datos**
 
-1. Clona el repositorio:
+Trayecto formativo finalizado con 49 horas de aprendizaje enfocado en ciencia de datos y bases de datos.
 
-```bash
-git clone https://github.com/MiyoBran/Alura-ONE-G9.git
-```
+✅ **Temas dominados:**
 
-2. Navega al directorio:
+- **Python para Data Science** - Estructuras, funciones y resolucion de problemas
+- **Biblioteca Pandas** - ETL, limpieza y analisis exploratorio (EDA)
+- **Modelado de Bases de Datos** - Diseño conceptual y reglas de negocio
 
-```bash
-cd Alura-ONE-G9
-```
+✅ **Desafio realizado:**
 
-3. Abre `index.html` en tu navegador favorito
+- **Alura Store - Analisis de Datos** - Desafio aplicado con repositorio publico: https://github.com/MiyoBran/alura-store-desafio
 
+
+
+## 🔄 Trayecto Formativo ONE Aprendiendo a hacer ETL
+
+✅ **Desafio realizado:**
+- **Telecom X - Analisis de Evasion (Churn)** - Repositorio: https://github.com/MiyoBran/alura-etl-telecom-x
+
+## 📊 Trayecto Formativo ONE Estadisticas y Machine Learning
+
+🔄 **En progreso:**
+- Desafio pendiente
+
+  
 ### 🌐 **Navegación**
 
 - **Inicio**: Presenta el portafolio y objetivos
