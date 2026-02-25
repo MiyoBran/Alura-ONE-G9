@@ -161,36 +161,6 @@ formacion-estadisticas-y-machine-learning-grupo9-one/
 
 ---
 
-## 🚀 Cómo Comenzar
-
-1. **Clona el repositorio:**
-```bash
-git clone https://github.com/MiyoBran/Alura-ONE-G9.git
-```
-
-2. **Accede a la formación:**
-```bash
-cd formacion-estadisticas-y-machine-learning-grupo9-one
-```
-
-3. **Crea un entorno virtual:**
-```bash
-python -m venv venv
-source venv/bin/activate  # En Windows: venv\Scripts\activate
-```
-
-4. **Instala las dependencias:**
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn statsmodels jupyter scipy imbalanced-learn
-```
-
-5. **Abre Jupyter:**
-```bash
-jupyter notebook
-```
-
----
-
 ## 📝 Requisitos Previos
 
 - ✓ Python 3.7+

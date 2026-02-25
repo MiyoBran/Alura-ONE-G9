@@ -65,30 +65,6 @@ El proyecto está **100% funcional** con todas las características implementada
 
 Puedes ver el proyecto funcionando directamente abriendo el archivo `index.html` en tu navegador.
 
-### 💾 Descargar el proyecto
-
-1. Clona este repositorio:
-
-```bash
-git clone https://github.com/MiyoBran/Alura-ONE-G9.git
-```
-
-2. Navega hasta la carpeta del proyecto:
-
-```bash
-cd Alura-ONE-G9/formacion-programacion-primeros-pasos-grupo9-one/challenge-amigo-secreto_esp-main
-```
-
-## 🛠️ Abrir y ejecutar el proyecto
-
-**Para ejecutar el proyecto localmente:**
-
-1. Descarga o clona el repositorio
-2. Abre el archivo `index.html` en tu navegador web favorito
-3. ¡Listo! Ya puedes usar la aplicación
-
-**No se requieren instalaciones adicionales**, ya que es una aplicación web que funciona directamente en el navegador.
-
 ## 🚀 Tecnologías utilizadas
 
 * ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML5**: Estructura del proyecto

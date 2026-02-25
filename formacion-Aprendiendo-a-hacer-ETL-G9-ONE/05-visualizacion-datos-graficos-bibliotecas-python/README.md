@@ -75,36 +75,6 @@ Este curso es parte de la formación en **Data Visualization** del programa **Or
 
 ---
 
-## 🚀 Cómo Usar
-
-1. Clona el repositorio:
-```bash
-git clone https://github.com/MiyoBran/Alura-ONE-G9.git
-```
-
-2. Navega a esta carpeta:
-```bash
-cd formacion-Aprendiendo-a-hacer-ETL-G9-ONE/05-visualizacion-datos-graficos-bibliotecas-python
-```
-
-3. Crea un entorno virtual (recomendado):
-```bash
-python -m venv venv
-source venv/bin/activate  # En Windows: venv\Scripts\activate
-```
-
-4. Instala las dependencias:
-```bash
-pip install -r requirements.txt
-```
-
-5. Abre los notebooks:
-```bash
-jupyter notebook
-```
-
----
-
 ## 📝 Requisitos Previos
 
 - Conocimientos en Python básico
