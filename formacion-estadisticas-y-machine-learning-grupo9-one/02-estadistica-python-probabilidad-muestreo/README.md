@@ -44,7 +44,6 @@ Este curso es parte de la formación en **Estadística y Machine Learning** del 
 - **Python 3.x**
 - **NumPy** - Operaciones numéricas
 - **SciPy** - Funciones estadísticas
-- **Statsmodels** - Modelos estadísticos
 - **Matplotlib** - Visualización
 - **Jupyter Notebook** - Entorno interactivo
 

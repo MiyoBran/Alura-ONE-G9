@@ -29,9 +29,9 @@ Este curso es parte de la formación en **Estadística y Machine Learning** del 
 - Validación del modelo
 
 ✅ **Factores Influyentes:**
-- Multicolinealidad
+- Multicolinealidad (VIF)
 - Outliers
-- Supuestos del modelo
+- Homocedasticidad y heterocedasticidad
 - Mejora del modelo
 
 ---
@@ -41,8 +41,10 @@ Este curso es parte de la formación en **Estadística y Machine Learning** del 
 - **Python 3.x**
 - **Pandas** - Manipulación de datos
 - **NumPy** - Cálculos numéricos
+- **Statsmodels** - Modelado estadístico (OLS)
 - **Scikit-learn** - Modelos lineales
 - **Matplotlib/Seaborn** - Visualización
+- **Plotly** - Visualización interactiva
 - **Jupyter Notebook** - Entorno interactivo
 
 ---
@@ -57,7 +59,7 @@ Este curso es parte de la formación en **Estadística y Machine Learning** del 
 6. **Predicciones**
 7. **Evaluación - Coeficiente R²**
 8. **Análisis de Residuos**
-9. **Diagnóstico del Modelo**
+9. **Diagnóstico del Modelo (VIF y Heterocedasticidad)**
 10. **Aplicaciones Prácticas**
 
 ---
